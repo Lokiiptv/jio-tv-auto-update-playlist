@@ -4,7 +4,7 @@ import requests
 JSON_URL = "https://raw.githubusercontent.com/qwerty180506/json/refs/heads/main/Geoplus.json"
 
 # Output playlist
-OUTPUT_FILE = "s.m3u"
+OUTPUT_FILE = "jtv2.m3u"
 
 # Download JSON
 response = requests.get(JSON_URL)
