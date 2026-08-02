@@ -19,20 +19,27 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Set up environment
+      - name: Set up Python (if using Python)
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies (if any)
         run: |
-          echo "Add any setup steps here (Node/Python/etc.) if your script needs them"
+          # Install any required packages
+          pip install requests  # example
 
       - name: Generate playlist
         run: |
-          # Replace this with whatever actually produces jtv2.m3u
-          echo "Generating jtv2.m3u..."
-          # e.g. python generate_playlist.py > jtv2.m3u
+          # Run your actual script
+          python generate_playlist.py > jtv2.m3u
+          # OR if you have a bash script:
+          # ./generate_playlist.sh > jtv2.m3u
 
       - name: Set git identity
         run: |
-          git config --global user.name "bot"
-          git config --global user.email "bot@example.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Commit changes
         run: |
