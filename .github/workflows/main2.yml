@@ -1,53 +1,47 @@
-name: Auto Update Playlist
+name: Update JTV Playlist
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # adjust to your actual schedule
-  workflow_dispatch:
-
-concurrency:
-  group: playlist-update
-  cancel-in-progress: false
+    - cron: '0 */1 * * *' # Runs every 1 hour
+  workflow_dispatch: # Allows manual triggering
+  push:
+    branches:
+      - main
+    paths:
+      - 'jtv2.py'
+      
 
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Set up Python (if using Python)
-        uses: actions/setup-python@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Install dependencies (if any)
+      - name: Install dependencies
         run: |
-          # Install any required packages
-          pip install requests  # example
+          python -m pip install --upgrade pip
+          pip install requests pytz
+          # Or if you have requirements.txt:
+          # pip install -r requirements.txt
 
-      - name: Generate playlist
-        run: |
-          # Run your actual script
-          python generate_playlist.py > jtv2.m3u
-          # OR if you have a bash script:
-          # ./generate_playlist.sh > jtv2.m3u
+      - name: Run jtv2.py
+        run: python jtv2.py
 
-      - name: Set git identity
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit changes
+      - name: Commit and Push Changes
         run: |
+          git config --global user.name "sportlive18"
+          git config --global user.email "271363488+sportlive18@users.noreply.github.com"
+
           git add jtv2.m3u
-          git commit -m "Auto-update playlists: $(date -u)" || echo "No changes to commit"
-
-      - name: Pull latest before pushing
-        run: git pull --rebase origin main
-
-      - name: Push changes
-        run: git push origin main
+          git commit -m "Auto-update playlists: $(date)" || echo "No changes to commit"
+          git push
