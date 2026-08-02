@@ -42,6 +42,6 @@ jobs:
           git config --global user.name "sportlive18"
           git config --global user.email "271363488+sportlive18@users.noreply.github.com"
 
-          git add jtv.m3u
+          git add jtv2.m3u
           git commit -m "Auto-update playlists: $(date)" || echo "No changes to commit"
           git push
