@@ -13,8 +13,8 @@ from urllib.parse import unquote, urlparse
 import pytz
 
 PLAYLIST_URL = "https://go.streamstar18.workers.dev/"
-JSON_OUTPUT = "jiotv.json"
-M3U_OUTPUT = "jiotv.m3u"
+JSON_OUTPUT = "jtv.json"
+M3U_OUTPUT = "jtv.m3u"
 
 # Default user agent if not specified
 DEFAULT_USER_AGENT = "Sayan10"
