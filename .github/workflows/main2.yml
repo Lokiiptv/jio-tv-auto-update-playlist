@@ -33,9 +33,10 @@ jobs:
           git config --global user.name "sportlive18"
           git config --global user.email "271363488+sportlive18@users.noreply.github.com"
 
-      - name: Pull Latest Changes
+      - name: Fetch and Reset to Remote
         run: |
-          git pull --rebase origin main
+          git fetch origin main
+          git reset --hard origin/main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -51,17 +52,20 @@ jobs:
         run: |
           python jtv2.py
 
-      - name: Commit Changes
+      - name: Commit and Push Changes
         run: |
           git add jtv2.m3u
-
+          
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-
+          
           git commit -m "Auto-update playlist ($(date -u '+%Y-%m-%d %H:%M UTC'))"
-
-      - name: Push Changes
-        run: |
+          
+          # Fetch latest changes again and rebase
+          git fetch origin main
+          git rebase origin/main
+          
+          # Push the changes
           git push origin main
