@@ -1,47 +1,46 @@
-name: Update JIOTV PLUS Playlist
+name: Auto Update Playlist
 
 on:
   schedule:
-    - cron: '0 */1 * * *' # Runs every 1 hour
-  workflow_dispatch: # Allows manual triggering
-  push:
-    branches:
-      - main
-    paths:
-      - 'jtv2.py'
-      
+    - cron: "*/30 * * * *"   # adjust to your actual schedule
+  workflow_dispatch:
+
+concurrency:
+  group: playlist-update
+  cancel-in-progress: false
 
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          fetch-depth: 0
 
-      - name: Install dependencies
+      - name: Set up environment
         run: |
-          python -m pip install --upgrade pip
-          pip install requests pytz
-          # Or if you have requirements.txt:
-          # pip install -r requirements.txt
+          echo "Add any setup steps here (Node/Python/etc.) if your script needs them"
 
-      - name: Run jtv2.py
-        run: python jtv2.py
-
-
-      - name: Commit and Push Changes
+      - name: Generate playlist
         run: |
-          git config --global user.name "sportlive18"
-          git config --global user.email "271363488+sportlive18@users.noreply.github.com"
+          # Replace this with whatever actually produces jtv2.m3u
+          echo "Generating jtv2.m3u..."
+          # e.g. python generate_playlist.py > jtv2.m3u
 
+      - name: Set git identity
+        run: |
+          git config user.name "m3u8-bot"
+          git config user.email "bot@users.noreply.github.com"
+
+      - name: Commit changes
+        run: |
           git add jtv2.m3u
-          git commit -m "Auto-update playlists: $(date)" || echo "No changes to commit"
-          git push
+          git commit -m "Auto-update playlists: $(date -u)" || echo "No changes to commit"
+
+      - name: Pull latest before pushing
+        run: git pull --rebase origin main
+
+      - name: Push changes
+        run: git push origin main
