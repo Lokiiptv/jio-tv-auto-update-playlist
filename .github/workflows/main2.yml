@@ -13,8 +13,13 @@ on:
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
+    concurrency:
+      group: update-jtv2
+      cancel-in-progress: true
 
     steps:
       - name: Checkout Repository
@@ -23,30 +28,40 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
+      - name: Configure Git
+        run: |
+          git config --global user.name "sportlive18"
+          git config --global user.email "271363488+sportlive18@users.noreply.github.com"
+
+      - name: Pull Latest Changes
+        run: |
+          git pull --rebase origin main
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests pytz
 
-      - name: Run jtv2.py
-        run: python jtv2.py
-
-      - name: Commit and Push Changes
+      - name: Run Script
         run: |
-          git config --global user.name "sportlive18"
-          git config --global user.email "271363488+sportlive18@users.noreply.github.com"
-          
-          # Pull latest changes
-          git pull --rebase origin main
-          
-          # Add and commit changes
+          python jtv2.py
+
+      - name: Commit Changes
+        run: |
           git add jtv2.m3u
-          git commit -m "Auto-update playlists: $(date)" || echo "No changes to commit"
-          
-          # Push changes
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Auto-update playlist ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+
+      - name: Push Changes
+        run: |
           git push origin main
