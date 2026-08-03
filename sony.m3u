@@ -1,0 +1,92 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="sf-top" group-title="Join Telegram: @streamstartv" tvg-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif",Install NetX Player
+https://t.me/streamstartv
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Entertainment" tvg-logo="https://i.postimg.cc/LhKxf97t/sonysabhd.webp",Sony Sab HD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=sabhd&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SET HD.in" group-title="Entertainment" tvg-logo="https://i.postimg.cc/zXgMfMMw/sethd.webp",SET HD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=sethd&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="Sony Pal.in" group-title="Entertainment" tvg-logo="https://i.postimg.cc/hjYyDb13/sonypal.webp",Sony Pal
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=pal&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="Sony Wah.in" group-title="Movies" tvg-logo="https://i.postimg.cc/HxJG9LSR/sonywah.webp",Sony Wah
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=wah&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SONY MAX.in" group-title="Movies" tvg-logo="https://i.postimg.cc/43JFB33w/sonymax.webp",Sony Max
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=max&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SONY MAX HD.in" group-title="Movies" tvg-logo="https://i.postimg.cc/RFhpxbKH/sonymaxhd.webp",Sony Max HD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=maxhd&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SONY MAX 2.in" group-title="Movies" tvg-logo="https://i.postimg.cc/vm32jdgy/sonymax2.webp",Sony Max 2
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=max2&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1.in" group-title="Sports" tvg-logo="https://i.postimg.cc/k5y9R4vH/sony-ten-1.webp",Sony TEN 1 SD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=ten1&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD.in" group-title="Sports" tvg-logo="https://i.postimg.cc/h4knM9Rr/sonysportsten1hd.webp",Sony TEN 1 HD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=ten1hd&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2.in" group-title="Sports" tvg-logo="https://i.postimg.cc/027s4b8q/sonysportsten2.webp",Sony TEN 2 SD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=ten2&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD.in" group-title="Sports" tvg-logo="https://i.postimg.cc/zG5rY8BH/sonysportsten2hd.webp",Sony TEN 2 HD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=ten2hd&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3.in" group-title="Sports" tvg-logo="https://i.postimg.cc/XY80VmGH/sonysportsten3.webp",Sony TEN 3 SD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=ten3&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD.in" group-title="Sports" tvg-logo="https://i.postimg.cc/xd1Vq5L0/sonysportsten3hd.webp",Sony TEN 3 HD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=ten3hd&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 4.in" group-title="Sports" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",Sony TEN 4 SD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=ten4&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 4 HD.in" group-title="Sports" tvg-logo="https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",Sony TEN 4 HD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=ten4hd&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5.in" group-title="Sports" tvg-logo="https://i.postimg.cc/Mpjks892/sony-sports-ten-5.png",Sony TEN 5 SD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=ten5&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" group-title="Sports" tvg-logo="https://i.postimg.cc/CKrT884b/sonysportsten5hd.webp",Sony TEN 5 HD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=ten5hd&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SONY YAY!.in" group-title="Kids" tvg-logo="https://i.postimg.cc/FRwMWQ8R/sonyyay.webp",Sony Yay
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=yay&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="SONY BBC Earth HD.in" group-title="Knowledge" tvg-logo="https://i.postimg.cc/sgPNYW3v/sonybbcearthhd.webp",Sony BBC Earth HD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=bbcearthhd&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="sony-pix-hd" group-title="Movies" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png",Sony PIX HD
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=pixhd&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="sony-marathi" group-title="Entertainment" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png",Sony Marathii
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=marathi&u=Stream-star
+
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTINF:-1 tvg-id="sony-aath" group-title="Entertainment" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png",Sony Aath
+https://vortexsu.azmodz.in/vortextv/serve/proxy/sony.php?id=aath&u=Stream-star
