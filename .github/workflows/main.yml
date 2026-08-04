@@ -1,4 +1,4 @@
-name: Automated JTV by Sayan10
+name: Automated JioTV by Sayan10
 on:
   schedule:
     - cron: '*/30 * * * *'
