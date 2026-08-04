@@ -2,11 +2,8 @@ name: Generate YuppTV M3U Playlist
 
 on:
   schedule:
-    # Run every 6 hours
     - cron: '0 */6 * * *'
-  # Allow manual trigger
   workflow_dispatch:
-  # Run on push to main branch
   push:
     branches:
       - main
@@ -31,7 +28,7 @@ jobs:
           
       - name: Generate YuppTV M3U playlist
         run: |
-          python -c "
+          python -c '
           import urllib3
           import urllib.parse
           import json
@@ -42,68 +39,68 @@ jobs:
 
           # Suppress SSL warnings
           import warnings
-          warnings.filterwarnings('ignore')
+          warnings.filterwarnings("ignore")
 
           # Create connection pool
           http = urllib3.PoolManager(
-              cert_reqs='CERT_NONE',
+              cert_reqs="CERT_NONE",
               assert_hostname=False
           )
 
-          print(f'[{datetime.now()}] Starting YuppTV M3U generation...')
+          print(f"[{datetime.now()}] Starting YuppTV M3U generation...")
 
-          playlist = ['#EXTM3U']
-          playlist.append(f'# Generated on: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}')
+          playlist = ["#EXTM3U"]
+          playlist.append(f"# Generated on: {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}")
 
           try:
               # Get token
-              print('Requesting token...')
+              print("Requesting token...")
               resp = http.request(
-                  'GET',
-                  'https://yuppfast-api.revlet.net/service/api/v1/get/token?tenant_code=yuppfast&box_id=3b6f5839-0b53-aa06-7a80-023047a6357c&product=yuppfast&device_id=5&display_lang_code=ENG&device_sub_type=Chrome,145.0.0.0,Windows&client_app_version=1&timezone=Asia/Calcutta',
+                  "GET",
+                  "https://yuppfast-api.revlet.net/service/api/v1/get/token?tenant_code=yuppfast&box_id=3b6f5839-0b53-aa06-7a80-023047a6357c&product=yuppfast&device_id=5&display_lang_code=ENG&device_sub_type=Chrome,145.0.0.0,Windows&client_app_version=1&timezone=Asia/Calcutta",
                   headers={
-                      'Accept': 'application/json, text/plain, */*',
-                      'Accept-Encoding': 'gzip, deflate, br, zstd',
-                      'Tenant-Code': 'yuppfast',
-                      'Origin': 'https://www.yupptv.com',
-                      'Referer': 'https://www.yupptv.com/',
-                      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36'
+                      "Accept": "application/json, text/plain, */*",
+                      "Accept-Encoding": "gzip, deflate, br, zstd",
+                      "Tenant-Code": "yuppfast",
+                      "Origin": "https://www.yupptv.com",
+                      "Referer": "https://www.yupptv.com/",
+                      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
                   }
               )
 
               if resp.status != 200:
-                  print(f'❌ Token request failed with status: {resp.status}')
+                  print(f"Token request failed with status: {resp.status}")
                   sys.exit(1)
 
               jsonresp = resp.json()
-              sessionid = jsonresp['response']['sessionId']
-              print(f'✅ Session ID obtained: {sessionid}')
+              sessionid = jsonresp["response"]["sessionId"]
+              print(f"Session ID obtained: {sessionid}")
 
               # Get channels
-              print('Fetching channel list...')
+              print("Fetching channel list...")
               resp = http.request(
-                  'GET',
-                  'https://yuppfast-api.revlet.net/service/api/v1/tvguide/channels?filter=genreCode:all;langCode:ENG,HIN,TAM,MAR,BEN,TEL,KAN,BHO,GUA,PUN,ASS,URD',
+                  "GET",
+                  "https://yuppfast-api.revlet.net/service/api/v1/tvguide/channels?filter=genreCode:all;langCode:ENG,HIN,TAM,MAR,BEN,TEL,KAN,BHO,GUA,PUN,ASS,URD",
                   headers={
-                      'Accept': 'application/json, text/plain, */*',
-                      'Accept-Encoding': 'gzip, deflate, br, zstd',
-                      'Box-Id': '3b6f5839-0b53-aa06-7a80-023047a6357c',
-                      'Tenant-Code': 'yuppfast',
-                      'Origin': 'https://www.yupptv.com',
-                      'Referer': 'https://www.yupptv.com/',
-                      'Session-Id': sessionid,
-                      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36'
+                      "Accept": "application/json, text/plain, */*",
+                      "Accept-Encoding": "gzip, deflate, br, zstd",
+                      "Box-Id": "3b6f5839-0b53-aa06-7a80-023047a6357c",
+                      "Tenant-Code": "yuppfast",
+                      "Origin": "https://www.yupptv.com",
+                      "Referer": "https://www.yupptv.com/",
+                      "Session-Id": sessionid,
+                      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
                   }
               )
 
               if resp.status != 200:
-                  print(f'❌ Channels request failed with status: {resp.status}')
+                  print(f"Channels request failed with status: {resp.status}")
                   sys.exit(1)
 
               jsonresp = resp.json()
-              channels = jsonresp['response']['data']
+              channels = jsonresp["response"]["data"]
               total_channels = len(channels)
-              print(f'✅ Found {total_channels} channels')
+              print(f"Found {total_channels} channels")
 
               # Process channels
               success_count = 0
@@ -111,88 +108,85 @@ jobs:
               
               for idx, channel_data in enumerate(channels, 1):
                   try:
-                      path = channel_data['target']['path']
-                      epg = channel_data['id']
-                      name = channel_data['display']['title']
-                      logo = channel_data['display']['imageUrl'].replace(
-                          'common,', 
-                          'https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/'
+                      path = channel_data["target"]["path"]
+                      epg = channel_data["id"]
+                      name = channel_data["display"]["title"]
+                      logo = channel_data["display"]["imageUrl"].replace(
+                          "common,",
+                          "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/"
                       )
                       
-                      playlist.append(f'#EXTINF:-1 tvg-id='{epg}' tvg-chno='{epg}' tvg-name='{name}' tvg-logo='{logo}',{epg} {name}')
+                      playlist.append(f"#EXTINF:-1 tvg-id=\"{epg}\" tvg-chno=\"{epg}\" tvg-name=\"{name}\" tvg-logo=\"{logo}\",{epg} {name}")
                       
                       encodedpath = urllib.parse.quote_plus(path)
                       resp = http.request(
-                          'GET',
-                          f'https://yuppfast-api.revlet.net/service/api/v1/page/stream?path={encodedpath}',
+                          "GET",
+                          f"https://yuppfast-api.revlet.net/service/api/v1/page/stream?path={encodedpath}",
                           headers={
-                              'Accept': 'application/json, text/plain, */*',
-                              'Accept-Encoding': 'gzip, deflate, br, zstd',
-                              'Box-Id': '3b6f5839-0b53-aa06-7a80-023047a6357c',
-                              'Tenant-Code': 'yuppfast',
-                              'Origin': 'https://www.yupptv.com',
-                              'Referer': 'https://www.yupptv.com/',
-                              'Session-Id': sessionid,
-                              'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36'
+                              "Accept": "application/json, text/plain, */*",
+                              "Accept-Encoding": "gzip, deflate, br, zstd",
+                              "Box-Id": "3b6f5839-0b53-aa06-7a80-023047a6357c",
+                              "Tenant-Code": "yuppfast",
+                              "Origin": "https://www.yupptv.com",
+                              "Referer": "https://www.yupptv.com/",
+                              "Session-Id": sessionid,
+                              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
                           }
                       )
                       
                       if resp.status == 200:
                           stream = resp.json()
-                          if stream.get('status', False) and stream['response']['streams']:
-                              playlist.append(stream['response']['streams'][0]['url'])
+                          if stream.get("status", False) and stream["response"]["streams"]:
+                              playlist.append(stream["response"]["streams"][0]["url"])
                               success_count += 1
-                              print(f'✅ [{idx}/{total_channels}] {name} - Stream found')
+                              print(f"[{idx}/{total_channels}] {name} - Stream found")
                           else:
-                              playlist.append('')
+                              playlist.append("")
                               fail_count += 1
-                              print(f'⚠️ [{idx}/{total_channels}] {name} - No stream available')
+                              print(f"[{idx}/{total_channels}] {name} - No stream available")
                       else:
-                          playlist.append('')
+                          playlist.append("")
                           fail_count += 1
-                          print(f'❌ [{idx}/{total_channels}] {name} - Request failed')
+                          print(f"[{idx}/{total_channels}] {name} - Request failed")
                           
                       # Small delay to avoid rate limiting
                       time.sleep(0.5)
                       
                   except Exception as e:
-                      playlist.append('')
+                      playlist.append("")
                       fail_count += 1
-                      print(f'❌ [{idx}/{total_channels}] Error: {str(e)}')
+                      print(f"[{idx}/{total_channels}] Error: {str(e)}")
 
               # Write to file
-              output_file = './yupptvfast.m3u'
-              with open(output_file, 'w', encoding='utf-8', newline='') as f:
+              output_file = "./yupptvfast.m3u"
+              with open(output_file, "w", encoding="utf-8", newline="") as f:
                   for lines in playlist:
-                      f.write(f'{lines}\n')
+                      f.write(f"{lines}\n")
 
-              print(f'\n{'='*50}')
-              print(f'✅ Playlist generation complete!')
-              print(f'📊 Total channels: {total_channels}')
-              print(f'✅ Successful streams: {success_count}')
-              print(f'❌ Failed streams: {fail_count}')
-              print(f'📁 Output file: {output_file}')
-              print(f'{'='*50}')
+              print(f"\n{'='*50}")
+              print(f"Playlist generation complete!")
+              print(f"Total channels: {total_channels}")
+              print(f"Successful streams: {success_count}")
+              print(f"Failed streams: {fail_count}")
+              print(f"Output file: {output_file}")
+              print(f"{'='*50}")
 
           except Exception as e:
-              print(f'❌ Fatal error: {str(e)}')
+              print(f"Fatal error: {str(e)}")
               sys.exit(1)
-          "
+          '
           
       - name: Check if playlist was generated
         id: check_playlist
         run: |
           if [ -f "./yupptvfast.m3u" ]; then
             echo "playlist_exists=true" >> $GITHUB_OUTPUT
-            echo "✅ Playlist generated successfully"
+            echo "Playlist generated successfully"
             CHANNELS=$(grep -c "^#EXTINF" ./yupptvfast.m3u || echo "0")
-            echo "📊 Number of channels: $CHANNELS"
-            # Show file size
-            SIZE=$(du -h ./yupptvfast.m3u | cut -f1)
-            echo "📁 File size: $SIZE"
+            echo "Number of channels: $CHANNELS"
           else
             echo "playlist_exists=false" >> $GITHUB_OUTPUT
-            echo "❌ Playlist file not found!"
+            echo "Playlist file not found!"
             exit 1
           fi
           
@@ -211,12 +205,3 @@ jobs:
           git add yupptvfast.m3u
           git diff --staged --quiet || (git commit -m "Update YuppTV playlist [skip ci]" && git push)
         continue-on-error: true
-        
-      - name: Display playlist URL
-        if: steps.check_playlist.outputs.playlist_exists == 'true'
-        run: |
-          REPO_NAME=$(echo "${{ github.repository }}" | cut -d'/' -f2)
-          echo "📺 Playlist URL:"
-          echo "https://raw.githubusercontent.com/${{ github.repository }}/main/yupptvfast.m3u"
-          echo ""
-          echo "You can use this URL in any IPTV player"
