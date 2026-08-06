@@ -13,14 +13,11 @@ on:
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     concurrency:
       group: update-jtv2
       cancel-in-progress: true
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -55,17 +52,27 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git add mixiptv.m3u
-          
+
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-          
+
           git commit -m "Auto-update playlist ($(date -u '+%Y-%m-%d %H:%M UTC'))"
-          
-          # Fetch latest changes again and rebase
+
+          # Fetch latest changes again and rebase before pushing,
+          # to avoid conflicts if another run pushed in the meantime
           git fetch origin main
           git rebase origin/main
-          
-          # Push the changes
-          git push origin main
+
+          # Retry push a few times in case of a transient race/network issue
+          for i in 1 2 3; do
+            if git push origin main; then
+              echo "Push succeeded."
+              break
+            fi
+            echo "Push failed (attempt $i). Retrying in 5s..."
+            sleep 5
+            git fetch origin main
+            git rebase origin/main
+          done
