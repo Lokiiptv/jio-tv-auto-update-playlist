@@ -19,8 +19,8 @@ jobs:
         run: python fetch_playlist.py   # make sure the script is named this
       - name: Commit and push if changed
         run: |
-          git config user.name "iptv-bot[bot]"
-          git config user.email "84861620+iptv-bot[bot]@users.noreply.github.com"
+          git config --global user.name "sportlive18"
+          git config --global user.email "271363488+sportlive18@users.noreply.github.com"
           git add mixiptv.m3u
           git diff --staged --quiet || git commit -m "Auto-update playlist $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
           git push
