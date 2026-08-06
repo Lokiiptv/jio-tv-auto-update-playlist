@@ -1,7 +1,7 @@
 import requests
 
 # JSON source
-JSON_URL = "https://raw.githubusercontent.com/qwerty180506/json/refs/heads/main/Geoplus.json"
+JSON_URL = "https://m3u-86e.pages.dev/jtv-mb.json"
 
 # Output playlist
 OUTPUT_FILE = "jtv2.m3u"
