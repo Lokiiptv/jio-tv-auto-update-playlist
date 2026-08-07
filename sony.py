@@ -15,7 +15,7 @@ try:
         with open('mixiptv.m3u', 'w', encoding='utf-8') as f:
             f.write(content)
             
-        print("Successfully fetched the playlist and saved it to 'playlist.m3u'")
+        print("Successfully fetched the playlist and saved it to 'sony.m3u'")
         print(f"First few lines:\n{content[:200]}...")
 except urllib.error.HTTPError as e:
     print(f"HTTP Error: {e.code}")
