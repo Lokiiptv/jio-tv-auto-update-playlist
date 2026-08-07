@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz,https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz" x-billed-message="StreamX"
-# Generated: 07 Aug 2026, 15:21:07
+# Generated: 07 Aug 2026, 16:12:33
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -8601,21 +8601,33 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/annnews/HLSPartner/index.m3u8
 #EXTHTTP:{"cookie":"__hdnea__=st=1786075003~exp=1786096603~acl=/*~hmac=0d7778fc10034918fc98ace0b925ba32f36fd12162f9795c79cac309c41a84ce","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Munsif_TV_MOB/WDVLive/index.mpd
 
-#EXTINF:-1 tvg-id="fancode-0.08595836871730289" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247973_53005_EDR_WDL_fc-Web.png",2026)
+#EXTINF:-1 tvg-id="fancode-0.5645594206992144" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247973_53005_EDR_WDL_fc-Web.png",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4247973_english_hls_f38b335ba477974_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786175423~_GO=Generated~acl=/mumbai/4247973_english_hls_f38b335ba477974_1ta-di_h264/*~Signature=AYCJ36Qytvey170Xnfmk26QMxOftejlBLbn9tQc1WLYyGiwxhEtpMpjm1qDYqeMm8sAnvSsVOzB-BH2roX67AVThoy0H
 
-#EXTINF:-1 tvg-id="fancode-0.7889294851335413" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",2026)
+#EXTINF:-1 tvg-id="fancode-0.893644918269723" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC
 
-#EXTINF:-1 tvg-id="fancode-0.002706538529515523" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png",Day 1 vs Silverstone Circuit (QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026)
+#EXTINF:-1 tvg-id="fancode-0.3770222112507562" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248214_53013_SCO_CAN_fc-Web.png",2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786182705~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TPyATvJOlcWk-_DiXSRpvWrlvRt23xp70nTcorjOm-X_2sq1kS-gEwfmWRjBilD_5Xqul8b4UFrB59f5pdRbMP
+
+#EXTINF:-1 tvg-id="fancode-0.32312630276114884" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png",Day 1 vs Silverstone Circuit (QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO
 
-#EXTINF:-1 tvg-id="sliv-event-0.025301944563877354" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021882/1786078899750452_SLvsIND_warmup_match1_day1_landscape_thumb.jpg",Day 1 - SLC XI vs IND - Warm-Up Match - 7 Aug 2026 [ENG] - India Tour of Sri Lanka 2026
+#EXTINF:-1 tvg-id="fancode-0.5343604339886661" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",NC (Wyndham Championship 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sonydaimenew.akamaized.net/hls/live/20000298/criclive0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786138851~acl=/*~id=31986641052687206041225487563966~hmac=763c37b347421af125904620aec74b9e01b5e9006d0cb10872cfca0c69f5459d
+https://in-mc-flive.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786185136~_GO=Generated~acl=/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/*~Signature=AYCJ36R6wVqkHOPobcfUHo5TuitbKipFLFYKFS0KOwj-xEsNTXvmwHlYlUosgu_WFrH8dE2TQoTDfRb6XqrLHNNW4fgH
+
+#EXTINF:-1 tvg-id="sliv-event-0.35401553899921856" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021882/1786078899750452_SLvsIND_warmup_match1_day1_landscape_thumb.jpg",Day 1 - SLC XI vs IND - Warm-Up Match - 7 Aug 2026 [ENG] - India Tour of Sri Lanka 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sonydaimenew.akamaized.net/hls/live/20000298/criclive0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786141888~acl=/*~id=49884648482740969793928838742302~hmac=41056fb0b46ae65dc44996aa134fe064e148e708b8e5af4cf5435f2cc788dd5e
+
+#EXTINF:-1 tvg-id="sliv-event-0.029109961173777843" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707590058385_DC26_SC_DELHI_vs_Defenders_FC_landscape_thumb.jpg",SC DELHI vs Defenders FC - 7 Aug 2026 [ENG] - IndianOil Durand Cup 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sonydaimenew.akamaized.net/hls/live/20000295/Football0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786141888~acl=/*~id=49884648482740969793928838742302~hmac=41056fb0b46ae65dc44996aa134fe064e148e708b8e5af4cf5435f2cc788dd5e
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
