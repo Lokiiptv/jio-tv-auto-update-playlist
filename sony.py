@@ -12,7 +12,7 @@ try:
         content = response.read().decode('utf-8')
         
         # Save it to a file
-        with open('mixiptv.m3u', 'w', encoding='utf-8') as f:
+        with open('sony.m3u', 'w', encoding='utf-8') as f:
             f.write(content)
             
         print("Successfully fetched the playlist and saved it to 'sony.m3u'")
