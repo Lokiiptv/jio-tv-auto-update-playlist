@@ -3,7 +3,7 @@ import json
 
 JSON_URL = "https://sonujson-devloper.vercel.app/Data/sports.json"
 USER_AGENT = "Sayan10"          
-OUTPUT_FILE = "StarSport.m3u"
+OUTPUT_FILE = "Star.m3u"
 
 def generate_m3u():
     try:
