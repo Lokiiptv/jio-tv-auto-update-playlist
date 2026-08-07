@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz,https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz" x-billed-message="StreamX"
-# Generated: 07 Aug 2026, 22:11:37
+# Generated: 07 Aug 2026, 23:10:25
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -9196,53 +9196,45 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="fancode-0.07679457048549188" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",2026)
+#EXTINF:-1 tvg-id="fancode-0.9219460260824056" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786181490~_GO=Generated~acl=/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/*~Signature=AYCJ36TeiPeGyIka0l1bk0B7_Vz1tlgVyIjg4GwcWDqgqdaS5s9lNuZn6AETXpJfud0MSkN7oqNpanT_x9g3RycCqTUC
 
-#EXTINF:-1 tvg-id="fancode-0.2336851701620548" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248214_53013_SCO_CAN_fc-Web.png",2026)
+#EXTINF:-1 tvg-id="fancode-0.6960645452841795" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248214_53013_SCO_CAN_fc-Web.png",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786182705~_GO=Generated~acl=/mumbai/4248214_english_hls_0e8839435896384_1ta-di_h264/*~Signature=AYCJ36TPyATvJOlcWk-_DiXSRpvWrlvRt23xp70nTcorjOm-X_2sq1kS-gEwfmWRjBilD_5Xqul8b4UFrB59f5pdRbMP
 
-#EXTINF:-1 tvg-id="fancode-0.580259166406989" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LPL_2026_GG_vs_CK_FC-WEB.jpg",2026)
+#EXTINF:-1 tvg-id="fancode-0.8382099685099678" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/LPL_2026_GG_vs_CK_FC-WEB.jpg",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786196083~_GO=Generated~acl=/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/*~Signature=AYCJ36SjJcspNfSkN9tfm0nTE0tTo8L-frbwOhenw-k6Y6jtZ4aqxkFBpWznPoOnnTGqH9DJYlOSxKNeGSV5r8sStUQA
 
-#EXTINF:-1 tvg-id="fancode-0.11702433680108515" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png",Day 1 vs Silverstone Circuit (QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://in-mc-flive.fancode.com/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786179059~_GO=Generated~acl=/mumbai/139960_english_hls_fbd63decb536502_1ta-di_h264/*~Signature=AYCJ36QcKHMsb5BNh9EuzzeiwRjnWAaERL86fkSdna-wCz9Slpyai28-pcJlLrBUKRannfdF8PFJVXc1YM5MwjWPE4gO
-
-#EXTINF:-1 tvg-id="fancode-0.8508877217022469" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",NC (Wyndham Championship 2026)
+#EXTINF:-1 tvg-id="fancode-0.7483971040358124" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",NC (Wyndham Championship 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786185136~_GO=Generated~acl=/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/*~Signature=AYCJ36R6wVqkHOPobcfUHo5TuitbKipFLFYKFS0KOwj-xEsNTXvmwHlYlUosgu_WFrH8dE2TQoTDfRb6XqrLHNNW4fgH
 
-#EXTINF:-1 tvg-id="fancode-0.2737573180581837" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PIF-London-Championship_FC-web.jpg",United Kingdom (PIF London Championship 2026)
+#EXTINF:-1 tvg-id="fancode-0.07118511228682689" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PIF-London-Championship_FC-web.jpg",United Kingdom (PIF London Championship 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248209_english_hls_0de9c2f12220773_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786193037~_GO=Generated~acl=/mumbai/4248209_english_hls_0de9c2f12220773_1ta-di_h264/*~Signature=AYCJ36SN0rQG4sa4UhgQciPKenP_smdRo6K2b9JStnUBanFuwPcwORfUJxbLbvUWxkpNJNGg2fJVeYIdIJuDsmywOUIK
 
-#EXTINF:-1 tvg-id="fancode-0.3550398108218522" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
+#EXTINF:-1 tvg-id="fancode-0.2627174104145148" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248078_english_hls_231098a6dd97389_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786205831~_GO=Generated~acl=/mumbai/4248078_english_hls_231098a6dd97389_1ta-di_h264/*~Signature=AYCJ36QIjUWphhUj35UbNXyWoI49KQ-ee6bXUbAXMCjWfKKQYcNE_2mExk3n0dwvttl5vkJ4H8JKrLp-CabgWsOBLgMK
 
-#EXTINF:-1 tvg-id="fancode-0.03434123467552008" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
+#EXTINF:-1 tvg-id="fancode-0.19491995678065488" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248079_english_hls_0bedf8ba8649214_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786205832~_GO=Generated~acl=/mumbai/4248079_english_hls_0bedf8ba8649214_1ta-di_h264/*~Signature=AYCJ36RmzKAxZxa-hkARnVaaNYFVsy4fG812umV7YBTjmvaR4km0ENkVi9w-LBuaSDm3rRW6AGkrvveZUyhqEXuD3NsC
 
-#EXTINF:-1 tvg-id="fancode-0.9444540098523597" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
+#EXTINF:-1 tvg-id="fancode-0.5618595976707768" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248081_english_hls_adccfc310756874_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786205835~_GO=Generated~acl=/mumbai/4248081_english_hls_adccfc310756874_1ta-di_h264/*~Signature=AYCJ36RMq8FqlWZrS2KqYSKvaYZA9IWFHP70GH-zz-fiXb18kVR1pqgD3CkIaBRq-RuwPsiwMwFAzfBc53WezibQetQO
 
-#EXTINF:-1 tvg-id="fancode-0.0027177750700259073" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
+#EXTINF:-1 tvg-id="fancode-0.007148680537253926" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248391_english_hls_1d475b161477105_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786205837~_GO=Generated~acl=/mumbai/4248391_english_hls_1d475b161477105_1ta-di_h264/*~Signature=AYCJ36SxbRCEI1Uago6lUGv1otsuiJ__ZyPajznmF-xOt3DMlk9l_e2Z9bfzA_VTDTkhAKEhU1XwCfI76N9ThIcS_KoO
 
-#EXTINF:-1 tvg-id="sliv-event-0.6106621221515618" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021845/178600775209347_Vitality_Mixed_Disability_2nd_T20i_England_vs_India_landscape_thumb.jpg",England vs India - 2nd T20I - 7 Aug 2026 [ENG] - Vitality Mixed Disability IT20 series
+#EXTINF:-1 tvg-id="sliv-event-0.5132601653973452" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021454/1785437512018954_LIV_Golf_New_York_day2_landscape_thumb.jpg",New York - Day 2 - 7 Aug 2026 [ENG] - LIV Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786163807~acl=/*~id=71543648355634428248261836497077~hmac=8df816eca80b6e4965e729e77c876786f7aecc6071103468bd8629657e90aa63
-
-#EXTINF:-1 tvg-id="sliv-event-0.08245718790747536" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021454/1785437512018954_LIV_Golf_New_York_day2_landscape_thumb.jpg",New York - Day 2 - 7 Aug 2026 [ENG] - LIV Golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sonydaimenew.akamaized.net/hls/live/20000297/Golf_New0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786163807~acl=/*~id=71543648355634428248261836497077~hmac=8df816eca80b6e4965e729e77c876786f7aecc6071103468bd8629657e90aa63
+https://sonydaimenew.akamaized.net/hls/live/20000297/Golf_New0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786167448~acl=/*~id=73746102029511451081107482461869~hmac=315b2b845eec13bf946eb5d5f7a9b4831efe334a818a0ed02e3d074ec75f70c1
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
