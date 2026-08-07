@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz,https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz" x-billed-message="StreamX"
-# Generated: 08 Aug 2026, 01:14:10
+# Generated: 08 Aug 2026, 01:59:36
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -9196,31 +9196,31 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="fancode-0.41326288333407335" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248169_53016_MIDD_WRX_fc-web.jpg",Middlesbrough F.C. vs Wrexham A.F.C. (Carabao Cup 2026-27)
+#EXTINF:-1 tvg-id="fancode-0.23613163918645352" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248169_53016_MIDD_WRX_fc-web.jpg",Middlesbrough F.C. vs Wrexham A.F.C. (Carabao Cup 2026-27)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248169_english_hls_9eeefefd945981_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786215558~_GO=Generated~acl=/mumbai/4248169_english_hls_9eeefefd945981_1ta-di_h264/*~Signature=AYCJ36S7_bx5yZpXrfEqJhcdBrKCA2rp9G1ksu7Lbg4Xjfx5JcPpo9qglPtrDrL0wAPizlXVibf6aV07txM75UNUCw8A
 
-#EXTINF:-1 tvg-id="fancode-0.630287089252733" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",NC (Wyndham Championship 2026)
+#EXTINF:-1 tvg-id="fancode-0.3352833723810241" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",NC (Wyndham Championship 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786214339~_GO=Generated~acl=/mumbai/4248186_english_hls_9749151e1e89039_1ta-di_h264/*~Signature=AYCJ36QG4UFW8frrY8D8rhdR2gY_O94wNjz-tDPfv90IRV3MO47bzbJqZTNEbXqctFpEAEWi1ZMFmIWWuY-G9k7RRNUJ
 
-#EXTINF:-1 tvg-id="fancode-0.5467271919815094" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
+#EXTINF:-1 tvg-id="fancode-0.8566727978364077" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248078_english_hls_231098a6dd97389_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786205831~_GO=Generated~acl=/mumbai/4248078_english_hls_231098a6dd97389_1ta-di_h264/*~Signature=AYCJ36QIjUWphhUj35UbNXyWoI49KQ-ee6bXUbAXMCjWfKKQYcNE_2mExk3n0dwvttl5vkJ4H8JKrLp-CabgWsOBLgMK
 
-#EXTINF:-1 tvg-id="fancode-0.7219848739011616" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
+#EXTINF:-1 tvg-id="fancode-0.24456873093483822" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248079_english_hls_0bedf8ba8649214_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786205832~_GO=Generated~acl=/mumbai/4248079_english_hls_0bedf8ba8649214_1ta-di_h264/*~Signature=AYCJ36RmzKAxZxa-hkARnVaaNYFVsy4fG812umV7YBTjmvaR4km0ENkVi9w-LBuaSDm3rRW6AGkrvveZUyhqEXuD3NsC
 
-#EXTINF:-1 tvg-id="fancode-0.7659204270596548" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
+#EXTINF:-1 tvg-id="fancode-0.5478989238642971" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248081_english_hls_adccfc310756874_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786205835~_GO=Generated~acl=/mumbai/4248081_english_hls_adccfc310756874_1ta-di_h264/*~Signature=AYCJ36RMq8FqlWZrS2KqYSKvaYZA9IWFHP70GH-zz-fiXb18kVR1pqgD3CkIaBRq-RuwPsiwMwFAzfBc53WezibQetQO
 
-#EXTINF:-1 tvg-id="fancode-0.46162952686603365" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
+#EXTINF:-1 tvg-id="fancode-0.4614510803860884" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248391_english_hls_1d475b161477105_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786205837~_GO=Generated~acl=/mumbai/4248391_english_hls_1d475b161477105_1ta-di_h264/*~Signature=AYCJ36SxbRCEI1Uago6lUGv1otsuiJ__ZyPajznmF-xOt3DMlk9l_e2Z9bfzA_VTDTkhAKEhU1XwCfI76N9ThIcS_KoO
 
-#EXTINF:-1 tvg-id="fancode-0.4796962491987474" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",NC (Wyndham Championship 2026)
+#EXTINF:-1 tvg-id="fancode-0.6801859242133481" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",NC (Wyndham Championship 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786214948~_GO=Generated~acl=/mumbai/4248182_english_hls_ea7a0e846346623_1ta-di_h264/*~Signature=AYCJ36S8G7df2ynnjSNvBhQDT2wDg3-Dl7FsddijYG4I5fRsAfCDn8vEHfOzhp2lBs5W0WfOIJdzGz5MXq50uGMdfPAC
 
