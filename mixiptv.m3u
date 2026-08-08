@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz,https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz" x-billed-message="StreamX"
-# Generated: 08 Aug 2026, 09:34:13
+# Generated: 08 Aug 2026, 11:04:54
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -9196,17 +9196,13 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="fancode-0.8603027354480204" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
+#EXTINF:-1 tvg-id="fancode-0.5882770117174659" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",Tanzania vs Uganda (ICC CWC Challenge League B 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://in-mc-flive.fancode.com/mumbai/4248078_english_hls_231098a6dd97389_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786234985~_GO=Generated~acl=/mumbai/4248078_english_hls_231098a6dd97389_1ta-di_h264/*~Signature=AYCJ36TGFyhi3aJDEtzB8lQA58nDbFfV09DiX83hBAwSMjHaV1Lx_n50F-rlxdNpu-wU64MuaLK1K7VNgIVCreLKd8ED
+https://in-mc-flive.fancode.com/mumbai/4248250_english_hls_604dbbc6e537886_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786250774~_GO=Generated~acl=/mumbai/4248250_english_hls_604dbbc6e537886_1ta-di_h264/*~Signature=AYCJ36Q0C4-P3tV5FqdO5SsOXJfYEdVR3FTAlrRMPPSI1gMmh2UfnPmZxmayOA06zMvccJRIph85utzDNS3sB_rgDNEG
 
-#EXTINF:-1 tvg-id="fancode-0.5360902702592505" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248286_53026_JK_ABF_FC-Web.png",2026)
+#EXTINF:-1 tvg-id="sliv-event-0.8725715040247639" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127924679710_SLvsIND_warm_up_match_day2_landscape_thumb.jpg",Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG] - India Tour of Sri Lanka 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://in-mc-flive.fancode.com/mumbai/4248286_english_hls_c15d148d2e71126_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786228917~_GO=Generated~acl=/mumbai/4248286_english_hls_c15d148d2e71126_1ta-di_h264/*~Signature=AYCJ36SJRNUUI4fHR-akHniUhcF1okDailbURwz2ix-YszFYViYz1E0MUBVee5FLFl5nE5cutkGabDb_-E0SUN7xxaoN
-
-#EXTINF:-1 tvg-id="sliv-event-0.06158944761891305" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021863/1786025007233853_SLvsIND_warm-upmatch_day2_landscape_thumb.jpg",Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG] - India Tour of Sri Lanka 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786205001~acl=/*~id=98926285785476544731151936598481~hmac=41f937508e1dd11d63f3118a3c1096c999a410d50ca4e48181b319c63240a38a
+https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786210464~acl=/*~id=28263840733216068584840962764815~hmac=d28c3ba22b6696ffce661e2b03e4324abe159dc98f9ea44b0ec7ac2c4201634e
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
