@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz,https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz" x-billed-message="StreamX"
-# Generated: 08 Aug 2026, 13:10:35
+# Generated: 08 Aug 2026, 13:57:50
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -9196,17 +9196,21 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="fancode-0.45082170572891955" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",Uganda vs Tanzania (ICC CWC Challenge League B 2026)
+#EXTINF:-1 tvg-id="fancode-0.24705389886679208" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247977_53005_PD_SDS_fc-Web.png",2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://in-mc-flive.fancode.com/mumbai/4247977_english_hls_79752a5a0567797_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786261700~_GO=Generated~acl=/mumbai/4247977_english_hls_79752a5a0567797_1ta-di_h264/*~Signature=AYCJ36SpXHWEYuRWlhQVE6hNOq59URMZO0FIFq4bU3MhvEyfQm77mOMaoGTBEu9nSYFqylLfmCRxUHAdZYIN4xOJlEcH
+
+#EXTINF:-1 tvg-id="fancode-0.1395659784312271" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",Uganda vs Tanzania (ICC CWC Challenge League B 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248250_english_hls_604dbbc6e537886_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786250774~_GO=Generated~acl=/mumbai/4248250_english_hls_604dbbc6e537886_1ta-di_h264/*~Signature=AYCJ36Q0C4-P3tV5FqdO5SsOXJfYEdVR3FTAlrRMPPSI1gMmh2UfnPmZxmayOA06zMvccJRIph85utzDNS3sB_rgDNEG
 
-#EXTINF:-1 tvg-id="fancode-0.584040499781224" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",China (Asian University Basketball League 2026)
+#EXTINF:-1 tvg-id="fancode-0.20534204979294024" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Asian-University-Basketball-League_FC-web.jpg",China (Asian University Basketball League 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248226_english_hls_467381dcea15960_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786259874~_GO=Generated~acl=/mumbai/4248226_english_hls_467381dcea15960_1ta-di_h264/*~Signature=AYCJ36Tja1nHbjnMbGp1IDfNM0BeDLjc7z-zUN2HekQ3nv-GzfhpHz-jsDeZvPtOYjPToy63WTueG4ELR3AeAqt96pwL
 
-#EXTINF:-1 tvg-id="sliv-event-0.8276881197711365" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127924679710_SLvsIND_warm_up_match_day2_landscape_thumb.jpg",Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG] - India Tour of Sri Lanka 2026
+#EXTINF:-1 tvg-id="sliv-event-0.23961102163698134" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127924679710_SLvsIND_warm_up_match_day2_landscape_thumb.jpg",Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG] - India Tour of Sri Lanka 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786217746~acl=/*~id=46535946687595897769631578117595~hmac=4ebc93000a381cbd538358e9e02036f69f01b6290523c3752d9b71c2c14440ec
+https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786220780~acl=/*~id=32377539927284578722368115361146~hmac=5a64f49d972e6e11057c8f984620884fa1c302458ec7bcaebfee6bce13880f95
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
