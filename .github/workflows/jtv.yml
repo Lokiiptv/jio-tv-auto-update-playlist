@@ -1,4 +1,4 @@
-name: JTV PLUS
+name: JTV PLUS 3
 on:
   schedule:
     - cron: '*/30 * * * *'
