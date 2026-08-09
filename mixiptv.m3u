@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz,https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz" x-billed-message="StreamX"
-# Generated: 09 Aug 2026, 09:46:43
+# Generated: 09 Aug 2026, 11:10:40
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -9196,21 +9196,9 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="fancode-0.9626734128937083" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
+#EXTINF:-1 tvg-id="sliv-event-0.41175160276833966" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127931146710_SLvsIND_warm_up_match_day3_landscape_thumb.jpg",Day 3 - SLC XI vs IND - Warm-Up Match - 9 Aug 2026 [ENG] - India Tour of Sri Lanka 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://in-mc-flive.fancode.com/mumbai/4248083_english_hls_62ce73e70642627_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786321257~_GO=Generated~acl=/mumbai/4248083_english_hls_62ce73e70642627_1ta-di_h264/*~Signature=AYCJ36SRKSZa_vkrc_R35YqjecX7oRqOSZnRFtKQwaqJzlRFRzV52Q-opTL14yYvlNwZ2V6XSfTAAB8-ytIt7OvNGuwP
-
-#EXTINF:-1 tvg-id="fancode-0.8909236211783568" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://in-mc-flive.fancode.com/mumbai/4248085_english_hls_4acca5816619681_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786321259~_GO=Generated~acl=/mumbai/4248085_english_hls_4acca5816619681_1ta-di_h264/*~Signature=AYCJ36Q7Wa2eDNol7Edt1e9C613gO-vzZlysperjfCZ8KPP3FhDxMHsrIUzyMCRCJfoOXCRfyeEDqQC8neiitaHBrWgJ
-
-#EXTINF:-1 tvg-id="fancode-0.25273740447739634" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248279_53026_SKN_TKR_FC-Web.png",2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://in-mc-flive.fancode.com/mumbai/4248279_english_hls_b2b925705078494_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786315192~_GO=Generated~acl=/mumbai/4248279_english_hls_b2b925705078494_1ta-di_h264/*~Signature=AYCJ36Ri7xpWLDxwwEKDopm5I7O3d3cU5kz5tBHAj0-3maUlXvNLI1vV8eWmv-1kToY1biA1q9CxAWS6rQjHq6uSRgYG
-
-#EXTINF:-1 tvg-id="sliv-event-0.34785346138307516" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127931146710_SLvsIND_warm_up_match_day3_landscape_thumb.jpg",Day 3 - SLC XI vs IND - Warm-Up Match - 9 Aug 2026 [ENG] - India Tour of Sri Lanka 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786291820~acl=/*~id=12492288232616283153452926433408~hmac=7e9eeee46b4fc68bad56bf6bbe58516b0c4e19590b6c4006a720f3295075661f
+https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786296665~acl=/*~id=14058780611869063597022843537108~hmac=bdb5252dc0f4b560bcee0bdd19daa1ba186491139d963e7088dd66a571f16d00
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
