@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
-"""
-Fetches and parses playlist URLs, extracts clearkeys from #KODIPROP lines,
-and outputs normalized JSON + M3U with proper format.
-Supports both MPD and M3U8 streams.
-"""
+
 
 import re
 import json
