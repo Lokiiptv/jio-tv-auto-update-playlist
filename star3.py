@@ -1,121 +1,73 @@
-import re
-import json
 import requests
+import re
 
-def fetch_and_filter_sports_m3u(playlist_url, output_file):
+def extract_star_sports(playlist_url, output_file):
     """
-    Download an M3U playlist, extract only Sports channels,
-    and write them in the desired format to a new file.
+    Download an M3U playlist, filter only Star Sports channels,
+    and save them to a new M3U file with all original metadata.
     """
-    # Download the playlist
     try:
         response = requests.get(playlist_url)
         response.raise_for_status()
         lines = response.text.splitlines()
     except requests.exceptions.RequestException as e:
-        print(f"Failed to download playlist: {e}")
+        print(f"❌ Failed to download playlist: {e}")
         return
 
-    sports_entries = []
+    output_lines = ['#EXTM3U']
+    star_sports_count = 0
     i = 0
-    total_lines = len(lines)
+    total = len(lines)
 
-    while i < total_lines:
+    while i < total:
         line = lines[i].strip()
-        # Look for the start of a channel entry
+        # Start of a channel entry: #EXTINF:
         if line.startswith('#EXTINF:'):
-            # Store the EXTINF line
-            extinf_line = line
-
-            # Advance to read subsequent metadata lines
+            # Collect all lines of this entry until we hit a URL (http:// or https://)
+            entry_lines = [line]
             i += 1
-            url = None
-            license_key = None
-            cookie = None
-
-            # Keep reading until we hit a URL (http or https)
-            while i < total_lines:
+            # Gather subsequent lines until we find the stream URL
+            while i < total:
                 current = lines[i].strip()
-                if current.startswith('http://') or current.startswith('https://'):
-                    url = current
+                if current.startswith(('http://', 'https://')):
+                    # This is the stream URL, add it and finish this entry
+                    entry_lines.append(current)
                     i += 1
                     break
-                elif current.startswith('#KODIPROP:inputstream.adaptive.license_key='):
-                    # Extract the full key (e.g., "e6bd...:962e...")
-                    license_key = current.replace('#KODIPROP:inputstream.adaptive.license_key=', '').strip()
-                elif current.startswith('#EXTHTTP:'):
-                    try:
-                        # Extract the JSON part
-                        json_str = current.replace('#EXTHTTP:', '').strip()
-                        data = json.loads(json_str)
-                        cookie = data.get('cookie')
-                    except:
-                        pass
-                # Ignore other lines like #KODIPROP:manifest_type, #EXTVLCOPT, etc.
-                i += 1
+                else:
+                    # This is a metadata line (KODIPROP, EXTVLCOPT, EXTHTTP, etc.)
+                    entry_lines.append(current)
+                    i += 1
+            else:
+                # If we finish the loop without finding a URL, we may have an incomplete entry; skip.
+                continue
 
-            # If we got a URL, create an entry
-            if url:
-                # Parse the EXTINF line to get tvg-id, tvg-logo, and channel name
-                # Example: #EXTINF:-1 tvg-id="143" group-title="English" tvg-logo="...",CNBC TV18 Prime
-                # We'll extract using regex
-                tvg_id_match = re.search(r'tvg-id="([^"]+)"', extinf_line)
-                tvg_logo_match = re.search(r'tvg-logo="([^"]+)"', extinf_line)
-                # Channel name is after the last comma
-                name_match = re.search(r',([^,]+)$', extinf_line)
-                channel_name = name_match.group(1).strip() if name_match else ""
+            # Now check if this entry is a Star Sports channel
+            # The channel name is after the last comma in the #EXTINF line
+            extinf = entry_lines[0]  # First line is #EXTINF
+            # Find the channel name: everything after the last comma
+            if ',' in extinf:
+                channel_name = extinf.rsplit(',', 1)[-1].strip()
+            else:
+                channel_name = ""
 
-                # Ensure the group-title is "Sports" (we already filtered, but double-check)
-                if 'group-title="Sports"' in extinf_line:
-                    entry = {
-                        'tvg_id': tvg_id_match.group(1) if tvg_id_match else '',
-                        'tvg_logo': tvg_logo_match.group(1) if tvg_logo_match else '',
-                        'channel_name': channel_name,
-                        'license_key': license_key or '',
-                        'cookie': cookie or '',
-                        'url': url
-                    }
-                    sports_entries.append(entry)
+            # Check if "Star Sports" appears (case-insensitive)
+            if re.search(r'star\s*sports', channel_name, re.IGNORECASE):
+                # Add a blank line before each entry (except the first) for readability
+                if output_lines != ['#EXTM3U']:
+                    output_lines.append('')
+                output_lines.extend(entry_lines)
+                star_sports_count += 1
         else:
             i += 1
 
-    # Build the new M3U content
-    output_lines = ['#EXTM3U']
-    for entry in sports_entries:
-        # EXTINF line
-        extinf = (f'#EXTINF:-1 tvg-id="{entry["tvg_id"]}" '
-                  f'tvg-name="{entry["channel_name"]}" '
-                  f'tvg-logo="{entry["tvg_logo"]}" '
-                  f'group-title="Sports",{entry["channel_name"]}')
-        output_lines.append(extinf)
-
-        # KODIPROP lines
-        output_lines.append('#KODIPROP:inputstream.adaptive.manifest_type=mpd')
-        output_lines.append('#KODIPROP:inputstream.adaptive.license_type=clearkey')
-        if entry['license_key']:
-            output_lines.append(f'#KODIPROP:inputstream.adaptive.license_key={entry["license_key"]}')
-
-        # EXTVLCOPT (fixed as per your example)
-        output_lines.append('#EXTVLCOPT:http-user-agent=Sayan10')
-
-        # EXTHTTP with cookie, Origin, Referer
-        if entry['cookie']:
-            exthttp = (f'#EXTHTTP:{{"cookie":"{entry["cookie"]}",'
-                       f'"Origin":"https://www.jiotv.com/",'
-                       f'"Referer":"https://www.jiotv.com/"}}')
-            output_lines.append(exthttp)
-
-        # Stream URL
-        output_lines.append(entry['url'])
-        output_lines.append('')  # blank line between entries
-
-    # Write the output file
+    # Write output file
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write('\n'.join(output_lines))
 
-    print(f"✅ Extracted {len(sports_entries)} sports channel(s) to '{output_file}'")
+    print(f"✅ Found {star_sports_count} Star Sports channel(s). Saved to '{output_file}'.")
 
 if __name__ == "__main__":
     playlist_url = "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/jtv.m3u"
-    output_file = "Star3.m3u"
-    fetch_and_filter_sports_m3u(playlist_url, output_file)
+    output_file = "Star.m3u"
+    extract_star_sports(playlist_url, output_file)
