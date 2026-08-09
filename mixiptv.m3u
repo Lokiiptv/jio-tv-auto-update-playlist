@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz,https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz" x-billed-message="StreamX"
-# Generated: 09 Aug 2026, 17:58:33
+# Generated: 09 Aug 2026, 19:11:31
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -9196,37 +9196,41 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="fancode-0.05762010175261112" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248215_53013_SCO_UAE_fc-Web.png",2026)
+#EXTINF:-1 tvg-id="fancode-0.3429108014379876" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248215_53013_SCO_UAE_fc-Web.png",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248215_english_hls_aea7a6bbd291455_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786355247~_GO=Generated~acl=/mumbai/4248215_english_hls_aea7a6bbd291455_1ta-di_h264/*~Signature=AYCJ36QYlBj0cQ1482GIs1xxYxpAqWnodIEws-7AEv8QX-Dc_Zdy9_IrzNEO0bEQOJaHnJxuZx_w_WTTiKKcj2ms0RYG
 
-#EXTINF:-1 tvg-id="fancode-0.4484411392610236" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",Italy vs Bahrain (ICC CWC Challenge League B 2026)
+#EXTINF:-1 tvg-id="fancode-0.9535066840444298" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247981_53005_SDS_CDK_fc-Web.png",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://in-mc-flive.fancode.com/mumbai/4248251_english_hls_a55b374f6f72356_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786340661~_GO=Generated~acl=/mumbai/4248251_english_hls_a55b374f6f72356_1ta-di_h264/*~Signature=AYCJ36QTcAyR7PHWkceE_O_gOKHkMCxeF256rHg3mziKGZX69Mx_Tg2-md-fjlk8zfl5TKRh2Q1rN6fdIuBX0vIYUv4L
+https://in-mc-flive.fancode.com/mumbai/4247981_english_hls_7248ab241b93033_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786367424~_GO=Generated~acl=/mumbai/4247981_english_hls_7248ab241b93033_1ta-di_h264/*~Signature=AYCJ36RNwGZ0b7gEQsRk2r5w2FAPnj8ddkufji10yVKJBxtczrUp9vlvWzF-s2l9Xc3eUD4s8oV6TnsimYLQYkYH5BsI
 
-#EXTINF:-1 tvg-id="fancode-0.2778835498309684" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",China vs Singapore (ICC CWC Challenge League B 2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://in-mc-flive.fancode.com/mumbai/4248252_english_hls_f60f2cbc1825320_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786340664~_GO=Generated~acl=/mumbai/4248252_english_hls_f60f2cbc1825320_1ta-di_h264/*~Signature=AYCJ36TIZUx42NcWaT8bU3kXQbPFZv-r3fgknqYRH5trIIN0iwakVUKXEuxzTVW1ZLQlTB-vuOa1OrADpT-LE91ruYwH
-
-#EXTINF:-1 tvg-id="fancode-0.523315776841345" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/International_Friendlies_Chelsea_Johor_FC-WEB.jpg",Chelsea vs Johor Darul Ta'zim (Club Friendlies 2026)
+#EXTINF:-1 tvg-id="fancode-0.41162116728980047" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/International_Friendlies_Chelsea_Johor_FC-WEB.jpg",Chelsea vs Johor Darul Ta'zim (Club Friendlies 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248023_english_hls_32900546fc46777_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786362561~_GO=Generated~acl=/mumbai/4248023_english_hls_32900546fc46777_1ta-di_h264/*~Signature=AYCJ36RgLa_V1d4kJN1JCrNkztiEGEiboACEBDqc_5jotWJswlywO5M30vL-b1cqUPw9gUsqxVkrGZYPc9ZrzQnAkSoH
 
-#EXTINF:-1 tvg-id="fancode-0.15461892525322118" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png",Race Day vs Silverstone Circuit (QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026)
+#EXTINF:-1 tvg-id="fancode-0.22474432995644333" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Emirates-Cup-Final--old.png",Arsenal vs Borussia Dortmund (Club Friendlies 2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://in-mc-flive.fancode.com/mumbai/4248392_english_hls_2236b0e30b42918_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786366208~_GO=Generated~acl=/mumbai/4248392_english_hls_2236b0e30b42918_1ta-di_h264/*~Signature=AYCJ36S4qxfQGhmWDqlR3P_tXmo6V0UE-nFaea1lKGMT73EW1lzbHBvX-mqJ0omIbYZ4B1etRy3MfPXQZL9YQPqgoQgH
+
+#EXTINF:-1 tvg-id="fancode-0.3966530577732046" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Liverpool-vs-AS-Monaco_fc-web.jpg",Liverpool vs Monaco (Club Friendlies 2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://in-mc-flive.fancode.com/mumbai/4248022_english_hls_d15fae4f1364153_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786368032~_GO=Generated~acl=/mumbai/4248022_english_hls_d15fae4f1364153_1ta-di_h264/*~Signature=AYCJ36S2Ywt1umdd8lSIPhIRjn4mAHoYriwCh2AI78Ld1TB_dsvpgK0FfBzVLisAmkyX3YY1jjACssajT__1Sr6pXPwA
+
+#EXTINF:-1 tvg-id="fancode-0.3811510068385676" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MiniMatchCard1080x8103.png",Race Day vs Silverstone Circuit (QATAR AIRWAYS GRAND PRIX OF GREAT BRITAIN 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/139962_english_hls_ca15573da914817_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786346740~_GO=Generated~acl=/mumbai/139962_english_hls_ca15573da914817_1ta-di_h264/*~Signature=AYCJ36RFBIJioixeiSFySXzxfTFt4FWIeyhn4AVfzRYui2LEiv9f_8hk16qmQJbAKzWDbIMddwPXS9j1YyP8VN7hi0QB
 
-#EXTINF:-1 tvg-id="fancode-0.53563012627299" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",NC (Wyndham Championship 2026)
+#EXTINF:-1 tvg-id="fancode-0.9669093710186855" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",NC (Wyndham Championship 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248188_english_hls_d4ba5c1f0f69476_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786358896~_GO=Generated~acl=/mumbai/4248188_english_hls_d4ba5c1f0f69476_1ta-di_h264/*~Signature=AYCJ36RxvGZOTgvcubXhqDDpkhXdx5WtF7RUX_vNqzgjArA0nVBMZAd-pgn0QYy8yi4C_ha-eXxRjNlbfm4ttBSqIa8A
 
-#EXTINF:-1 tvg-id="fancode-0.9302169877952368" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PIF-London-Championship_FC-web.jpg",United Kingdom (PIF London Championship 2026)
+#EXTINF:-1 tvg-id="fancode-0.19692800673515687" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/PIF-London-Championship_FC-web.jpg",United Kingdom (PIF London Championship 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786362563~_GO=Generated~acl=/mumbai/4248211_english_hls_a811d3b6a919812_1ta-di_h264/*~Signature=AYCJ36SVa1w5jn-Pr3HBE-xvgij-E_-rIFmTr3AmJgzddtoYWOl-HXSl2EVPL56r9FTDU084JYD9cSiE6-D-akX_fekB
 
-#EXTINF:-1 tvg-id="sliv-event-0.48226693893749806" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708165809385_DC26_Trau_FC_vs_Indian_Navy_FT_landscape_thumb.jpg",Trau FC vs Indian Navy FT - 9 Aug 2026 [ENG] - IndianOil Durand Cup 2026
+#EXTINF:-1 tvg-id="sliv-event-0.04197144209335224" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021845/178600776325047_Vitality_Mixed_Disability_3rd_T20i_England_vs_India_landscape_thumb.jpg",England vs India - 3rd T20I - 9 Aug 2026 [ENG] - Vitality Mixed Disability IT20 series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sonydaimenew.akamaized.net/hls/live/20000296/Football0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786321604~acl=/*~id=18283005923014376485284419520817~hmac=71226dbf46722b63c1e6b8b032a80c5f265b875a5998f1294a19584ee57ae261
+https://sonydaimenew.akamaized.net/hls/live/20000297/Cricket_0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786325850~acl=/*~id=51148306969433636759913793697730~hmac=f34166949db82de9982a1ee98b96ae9fa3f06d5d6fd5a7b531e35685bb932672
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
