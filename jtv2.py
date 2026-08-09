@@ -1,17 +1,5 @@
 #!/usr/bin/env python3
-"""
-Advanced M3U playlist generator from JSON source.
-Features:
-- Retry logic with exponential backoff
-- Logging to console and optional file
-- Safe atomic file write (temp + rename)
-- Change detection (skip writing if content identical)
-- Command-line arguments for flexibility
-- Environment variable overrides
-- Type hints and docstrings
-- Timestamp and source hash in the playlist
-- Robust error handling
-"""
+
 
 import argparse
 import hashlib
