@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz,https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz" x-billed-message="StreamX"
-# Generated: 09 Aug 2026, 04:48:36
+# Generated: 09 Aug 2026, 06:25:58
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -9196,25 +9196,37 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="fancode-0.9337576973839106" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
+#EXTINF:-1 tvg-id="fancode-0.9753326879887171" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://in-mc-flive.fancode.com/mumbai/4248082_english_hls_b785382d4412925_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786292099~_GO=Generated~acl=/mumbai/4248082_english_hls_b785382d4412925_1ta-di_h264/*~Signature=AYCJ36QmgmaE5C8g1ajdFiDKNk2f2Jom1jBxs4aiRDgzuBQBYOYdc0_Oca05wZHwXlNiZ_IEccGDZap1KtL0YmKusS8B
+https://in-mc-flive.fancode.com/mumbai/4248083_english_hls_62ce73e70642627_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786321257~_GO=Generated~acl=/mumbai/4248083_english_hls_62ce73e70642627_1ta-di_h264/*~Signature=AYCJ36SRKSZa_vkrc_R35YqjecX7oRqOSZnRFtKQwaqJzlRFRzV52Q-opTL14yYvlNwZ2V6XSfTAAB8-ytIt7OvNGuwP
 
-#EXTINF:-1 tvg-id="fancode-0.6923027081940375" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
+#EXTINF:-1 tvg-id="fancode-0.7160479848965118" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://in-mc-flive.fancode.com/mumbai/4248083_english_hls_62ce73e70642627_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786292100~_GO=Generated~acl=/mumbai/4248083_english_hls_62ce73e70642627_1ta-di_h264/*~Signature=AYCJ36RuSHJ9eG26ZOzQ6upQVA_LeqZEr0KV0wKH1rgyVH_fHDbCueauWn-irvoDW2JFlPTB4Ja5-rL8F3UoICaDA50P
+https://in-mc-flive.fancode.com/mumbai/4248085_english_hls_4acca5816619681_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786321259~_GO=Generated~acl=/mumbai/4248085_english_hls_4acca5816619681_1ta-di_h264/*~Signature=AYCJ36Q7Wa2eDNol7Edt1e9C613gO-vzZlysperjfCZ8KPP3FhDxMHsrIUzyMCRCJfoOXCRfyeEDqQC8neiitaHBrWgJ
 
-#EXTINF:-1 tvg-id="fancode-0.8574572892085033" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://in-mc-flive.fancode.com/mumbai/4248084_english_hls_039f9ad7bc18894_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786292103~_GO=Generated~acl=/mumbai/4248084_english_hls_039f9ad7bc18894_1ta-di_h264/*~Signature=AYCJ36TP8CW2r5jKbF8nFXDuMdPfhv7kzQX5xrtS6e_97IUj4_SAkxKd_2UVLyf_QwoP_AjuAPv8DOEJ4OsKqQKjC44H
-
-#EXTINF:-1 tvg-id="fancode-0.19517813649181392" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",NC (Wyndham Championship 2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://in-mc-flive.fancode.com/mumbai/4248183_english_hls_3d2114a93d56237_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786293937~_GO=Generated~acl=/mumbai/4248183_english_hls_3d2114a93d56237_1ta-di_h264/*~Signature=AYCJ36QNs8EDDpA4QIzYn_kuSdw-cKg-nSahvrS3bQVhx3MAI1qcYRJgLY5Z5QNzEg4MqmkTDR7tJ_K1hJ68IhENWPwK
-
-#EXTINF:-1 tvg-id="fancode-0.24618351512472947" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248279_53026_SKN_TKR_FC-Web.png",2026)
+#EXTINF:-1 tvg-id="fancode-0.15015290934917036" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248279_53026_SKN_TKR_FC-Web.png",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248279_english_hls_b2b925705078494_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786315192~_GO=Generated~acl=/mumbai/4248279_english_hls_b2b925705078494_1ta-di_h264/*~Signature=AYCJ36Ri7xpWLDxwwEKDopm5I7O3d3cU5kz5tBHAj0-3maUlXvNLI1vV8eWmv-1kToY1biA1q9CxAWS6rQjHq6uSRgYG
+
+#EXTINF:-1 tvg-id="sliv-event-0.5210060314175601" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [ENG] - UFC Fight Night - Gamrot vs Salkilld
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786279676~acl=/*~id=76449234263507442544666676241430~hmac=8ec1c93d737c71d1eac34683fcd2682deaa3edda08c2fa4a8c90082169105b90
+
+#EXTINF:-1 tvg-id="sliv-event-0.2984619674036292" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [HIN] - UFC Fight Night - Gamrot vs Salkilld
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786279676~acl=/*~id=76449234263507442544666676241430~hmac=8ec1c93d737c71d1eac34683fcd2682deaa3edda08c2fa4a8c90082169105b90
+
+#EXTINF:-1 tvg-id="sliv-event-0.12494589917903243" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [TAM] - UFC Fight Night - Gamrot vs Salkilld
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786279676~acl=/*~id=76449234263507442544666676241430~hmac=8ec1c93d737c71d1eac34683fcd2682deaa3edda08c2fa4a8c90082169105b90
+
+#EXTINF:-1 tvg-id="sliv-event-0.6291433677263103" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [TEL] - UFC Fight Night - Gamrot vs Salkilld
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786279676~acl=/*~id=76449234263507442544666676241430~hmac=8ec1c93d737c71d1eac34683fcd2682deaa3edda08c2fa4a8c90082169105b90
+
+#EXTINF:-1 tvg-id="sliv-event-0.5456965435524294" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [KAN] - UFC Fight Night - Gamrot vs Salkilld
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786279676~acl=/*~id=76449234263507442544666676241430~hmac=8ec1c93d737c71d1eac34683fcd2682deaa3edda08c2fa4a8c90082169105b90
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
