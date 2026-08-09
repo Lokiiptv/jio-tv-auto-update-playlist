@@ -80,7 +80,7 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3ed8dc0e0cb5d238da80ee0a85bd2e1:67a96992e6406606f3480ab58d7f540c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1786269637~exp=1786291237~acl=/*~hmac=09a0ca0bfbe806417c77543dc55a0327c52b629a123bbd8189153c8da6caa160"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786276838~exp=1786298438~acl=/*~hmac=3eeb310a3f00f6cc474211a871fb02d0661aef2667411223fe45eb636b954042"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_1_SD_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1389" group-title="Sports" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg",Star Sports 3
@@ -143,7 +143,7 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3979aae1ca51561c9e8074cd618b3864:ae12e0e147d3e76cfa62bfb99bc07109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1786269637~exp=1786291237~acl=/*~hmac=09a0ca0bfbe806417c77543dc55a0327c52b629a123bbd8189153c8da6caa160"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786276838~exp=1786298438~acl=/*~hmac=3eeb310a3f00f6cc474211a871fb02d0661aef2667411223fe45eb636b954042"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_3_MOB/WDVCatchup/index.mpd
 
 #EXTINF:-1 tvg-id="3274" group-title="Sports" tvg-logo="https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg",Star Sports 2 Telugu HD
@@ -157,5 +157,5 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e38f46718d9d5c40af83095f176ba41e:8836ee0f7377d71c156a139361a45be5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"__hdnea__=st=1786269637~exp=1786291237~acl=/*~hmac=09a0ca0bfbe806417c77543dc55a0327c52b629a123bbd8189153c8da6caa160"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786276838~exp=1786298438~acl=/*~hmac=3eeb310a3f00f6cc474211a871fb02d0661aef2667411223fe45eb636b954042"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/Sports18_2_MOB/WDVCatchup/index.mpd
