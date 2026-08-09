@@ -26,7 +26,7 @@ jobs:
         run: |
           export TZ="Asia/Kolkata"
           git pull origin main --rebase
-          curl -sS -L -o jtvplus.m3u "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/jtv.m3u"
+          curl -sS -L -o jtvplus3.m3u "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/jtv.m3u"
           echo "🚀 JIOTV  Synced | IST: $(date +'%Y-%m-%d %H:%M:%S')"
           
       - name: Commit and Push
