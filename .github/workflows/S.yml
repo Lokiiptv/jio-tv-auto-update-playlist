@@ -2,7 +2,7 @@ name: Update Star Sports Playlist
 
 on:
   schedule:
-    - cron: '0 */1 * * *' # Runs every 1 hour
+    - cron: '*/30 * * * *'
   workflow_dispatch: # Allows manual triggering
   push:
     branches:
