@@ -1,7 +1,7 @@
 import urllib.request
 import urllib.error
 url = 'https://premiumplugjiotvplusplaylist.shieb6655.workers.dev/'
-# We MUST use a specific User-Agent like OTT Navigator, TiviMate, or okhttp to get the playlist
+
 headers = {
     'User-Agent': 'OTT Navigator'
 }
