@@ -76,7 +76,7 @@ try:
         sports_content = filter_m3u(content)
 
         # Save the filtered playlist
-        with open('playlist_sports.m3u', 'w', encoding='utf-8') as f:
+        with open('sports.m3u', 'w', encoding='utf-8') as f:
             f.write(sports_content)
 
         print("Successfully fetched and filtered the playlist.")
