@@ -26,13 +26,13 @@ jobs:
         run: |
           export TZ="Asia/Kolkata"
           git pull origin main --rebase
-          curl -sS -L -o jtv6.m3u "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/jtv.m3u"
+          curl -sS -L -o jtvplus.m3u "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/jtv.m3u"
           echo "🚀 JIOTV  Synced | IST: $(date +'%Y-%m-%d %H:%M:%S')"
           
       - name: Commit and Push
         run: |
           export TZ="Asia/Kolkata"
-          git add jtv6.m3u 
+          git add jtvplus3.m3u 
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "JTV PLUS Updated ✅ [$(date +'%d-%m-%Y %H:%M')]"
           git push origin main
