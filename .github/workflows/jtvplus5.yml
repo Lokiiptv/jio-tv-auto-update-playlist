@@ -1,4 +1,4 @@
-name: Update JTV PLUS 2 Playlist
+name: Update JTV PLUS 5 Playlist
 
 on:
   schedule:
@@ -50,7 +50,7 @@ jobs:
 
       - name: Run Script
         run: |
-          python jtvplus4.py
+          python jtvplus5.py
 
       - name: Commit and Push Changes
         run: |
