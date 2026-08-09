@@ -117,5 +117,5 @@ def fetch_and_filter_sports_m3u(playlist_url, output_file):
 
 if __name__ == "__main__":
     playlist_url = "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/jtv.m3u"
-    output_file = "star3.m3u"
+    output_file = "Star3.m3u"
     fetch_and_filter_sports_m3u(playlist_url, output_file)
