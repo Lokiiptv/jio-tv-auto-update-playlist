@@ -69,5 +69,5 @@ def extract_star_sports(playlist_url, output_file):
 
 if __name__ == "__main__":
     playlist_url = "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/jtv.m3u"
-    output_file = "Star.m3u"
+    output_file = "Star3.m3u"
     extract_star_sports(playlist_url, output_file)
