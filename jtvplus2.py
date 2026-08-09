@@ -3,7 +3,7 @@ import json
 
 JSON_URL = "https://upaidworker.streamxlive.workers.dev/"
 USER_AGENT = "Sayan10"          
-OUTPUT_FILE = "Star.m3u"
+OUTPUT_FILE = "jtvplus2.m3u"   
 
 def generate_m3u():
     try:
@@ -33,7 +33,7 @@ def generate_m3u():
             cookie = ch.get("cookie", "")
             key_id = ch.get("keyId", "")
             key = ch.get("key", "")
-            logo = ch.get("logo", "")          # <-- extract logo
+            logo = ch.get("logo", "")        
 
             # Skip incomplete entries
             if not all([stream_url, cookie, key_id, key]):
@@ -41,7 +41,7 @@ def generate_m3u():
                 continue
 
             license_key = f"{key_id}:{key}"
-            group = ch.get("category", "Sports")   # or hardcode "Sports"
+            group = ch.get("category", "Sports")   
 
             # EXTINF line with logo included
             m3u_lines.append(
@@ -67,7 +67,7 @@ def generate_m3u():
 
             # Stream URL
             m3u_lines.append(stream_url)
-            m3u_lines.append("")   # blank line
+            m3u_lines.append("")   
 
         # Write file
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
