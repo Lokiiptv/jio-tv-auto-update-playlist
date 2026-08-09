@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz,https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz" x-billed-message="StreamX"
-# Generated: 09 Aug 2026, 21:52:33
+# Generated: 09 Aug 2026, 22:52:25
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -9196,29 +9196,29 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="fancode-0.3771401655395086" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248215_53013_SCO_UAE_fc-Web.png",2026)
+#EXTINF:-1 tvg-id="fancode-0.3600128069621641" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248215_53013_SCO_UAE_fc-Web.png",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248215_english_hls_aea7a6bbd291455_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786355247~_GO=Generated~acl=/mumbai/4248215_english_hls_aea7a6bbd291455_1ta-di_h264/*~Signature=AYCJ36QYlBj0cQ1482GIs1xxYxpAqWnodIEws-7AEv8QX-Dc_Zdy9_IrzNEO0bEQOJaHnJxuZx_w_WTTiKKcj2ms0RYG
 
-#EXTINF:-1 tvg-id="fancode-0.9200069331243007" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247981_53005_SDS_CDK_fc-Web.png",2026)
+#EXTINF:-1 tvg-id="fancode-0.9704157823317061" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247981_53005_SDS_CDK_fc-Web.png",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4247981_english_hls_7248ab241b93033_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786367424~_GO=Generated~acl=/mumbai/4247981_english_hls_7248ab241b93033_1ta-di_h264/*~Signature=AYCJ36RNwGZ0b7gEQsRk2r5w2FAPnj8ddkufji10yVKJBxtczrUp9vlvWzF-s2l9Xc3eUD4s8oV6TnsimYLQYkYH5BsI
 
-#EXTINF:-1 tvg-id="fancode-0.5370097624463886" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248175_53016_MT_SHF_fc-web.jpg",Mansfield Town vs Sheffield United F.C. (Carabao Cup 2026-27)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://in-mc-flive.fancode.com/mumbai/4248175_english_hls_0fb07d1ca463098_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786373511~_GO=Generated~acl=/mumbai/4248175_english_hls_0fb07d1ca463098_1ta-di_h264/*~Signature=AYCJ36SkbsubtIra0Ma72Yra_nzRfTim-CqNe6Xio9xucBfR9uYzLZ90cBfgAum_DnZ4Cy63WVYsLF8zymT-I1GkPO8C
-
-#EXTINF:-1 tvg-id="fancode-0.07083634242850045" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",NC (Wyndham Championship 2026)
+#EXTINF:-1 tvg-id="fancode-0.42285047137578313" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",NC (Wyndham Championship 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248188_english_hls_d4ba5c1f0f69476_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786358896~_GO=Generated~acl=/mumbai/4248188_english_hls_d4ba5c1f0f69476_1ta-di_h264/*~Signature=AYCJ36RxvGZOTgvcubXhqDDpkhXdx5WtF7RUX_vNqzgjArA0nVBMZAd-pgn0QYy8yi4C_ha-eXxRjNlbfm4ttBSqIa8A
 
-#EXTINF:-1 tvg-id="sliv-event-0.9151146544991291" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021845/178600776325047_Vitality_Mixed_Disability_3rd_T20i_England_vs_India_landscape_thumb.jpg",England vs India - 3rd T20I - 9 Aug 2026 [ENG] - Vitality Mixed Disability IT20 series
+#EXTINF:-1 tvg-id="fancode-0.9180026072513572" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg",Canada (ATP Masters Omnium Banque National 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sonydaimenew.akamaized.net/hls/live/20000297/Cricket_0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786334973~acl=/*~id=74566411405229071228849238968413~hmac=b093549f5ee5e3fc1d01474c8060ffc3ce4ac5477e268cb36c3ae9af147fdb4b
+https://in-mc-flive.fancode.com/mumbai/4248088_english_hls_f0039e90b429469_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786378993~_GO=Generated~acl=/mumbai/4248088_english_hls_f0039e90b429469_1ta-di_h264/*~Signature=AYCJ36T-aEDNnxEe1MG0YT29wE9SNgqsFxc6vkTrHR9HyJFvTTQB27EDEU5Ol-8qnvXKLnYIkrfmbQOgsDDhOv6W5XoG
 
-#EXTINF:-1 tvg-id="sliv-event-0.14499017247567225" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021454/1785437524482954_LIV_Golf_New_York_day4_landscape_thumb.jpg",New York - Day 4 - 9 Aug 2026 [ENG] - LIV Golf
+#EXTINF:-1 tvg-id="fancode-0.3747357484901427" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png",NC (Wyndham Championship 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sonydaimenew.akamaized.net/hls/live/20000300/Golf_New0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786334973~acl=/*~id=74566411405229071228849238968413~hmac=b093549f5ee5e3fc1d01474c8060ffc3ce4ac5477e268cb36c3ae9af147fdb4b
+https://in-mc-flive.fancode.com/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786380211~_GO=Generated~acl=/mumbai/4248184_english_hls_9246c4892f45001_1ta-di_h264/*~Signature=AYCJ36TYftSrQsLASiQfpPQvR0IyVSg4ngI_uRXQEfbl0i5QMy7_b7AHoAXsyN_RzBp2qc5CJCvh_ZJ6H6iPjRPNBQYD
+
+#EXTINF:-1 tvg-id="sliv-event-0.6912093463592475" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021454/1785437524482954_LIV_Golf_New_York_day4_landscape_thumb.jpg",New York - Day 4 - 9 Aug 2026 [ENG] - LIV Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://sonydaimenew.akamaized.net/hls/live/20000300/Golf_New0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786339230~acl=/*~id=51596827824933345666884127785566~hmac=807ca08416333f95b7d43c97fb0b72a8188d7ff41efc5aef46584ada895dab9b
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
