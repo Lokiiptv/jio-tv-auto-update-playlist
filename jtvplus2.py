@@ -3,7 +3,7 @@ import json
 
 JSON_URL = "https://upaidworker.streamxlive.workers.dev/"
 USER_AGENT = "Sayan10"          
-OUTPUT_FILE = "jtvplus2.m3u"
+OUTPUT_FILE = "Star.m3u"
 
 def generate_m3u():
     try:
@@ -12,14 +12,14 @@ def generate_m3u():
         resp.raise_for_status()
         data = resp.json()
 
-        # Determine the channel list
+        # Detect if the JSON is a list or an object with 'channels'
         if isinstance(data, list):
             channels = data
         elif isinstance(data, dict) and "channels" in data:
             channels = data["channels"]
         else:
-            print("Error: JSON is not a list nor an object with 'channels' key.")
-            print("First 200 chars of response:", resp.text[:200])
+            print("Error: JSON format not recognized.")
+            print("First 200 chars:", resp.text[:200])
             return
 
         print(f"Found {len(channels)} channels. Building M3U...")
@@ -27,13 +27,13 @@ def generate_m3u():
         m3u_lines = ["#EXTM3U"]
 
         for ch in channels:
-            # Extract fields (using keys from your sample)
             ch_id = ch.get("id", "")
             name = ch.get("name", "Unknown")
-            stream_url = ch.get("url", "")          # key is "url"
+            stream_url = ch.get("url", "")
             cookie = ch.get("cookie", "")
-            key_id = ch.get("keyId", "")            # key is "keyId"
+            key_id = ch.get("keyId", "")
             key = ch.get("key", "")
+            logo = ch.get("logo", "")          # <-- extract logo
 
             # Skip incomplete entries
             if not all([stream_url, cookie, key_id, key]):
@@ -41,16 +41,14 @@ def generate_m3u():
                 continue
 
             license_key = f"{key_id}:{key}"
+            group = ch.get("category", "Sports")   # or hardcode "Sports"
 
-            # You can use category from JSON, or hardcode "Sports" as in your example
-            group = ch.get("category", "Sports")     # fallback to "Sports"
-
-            # EXTINF line
+            # EXTINF line with logo included
             m3u_lines.append(
-                f'#EXTINF:-1 tvg-id="{ch_id}" tvg-name="{name}" tvg-logo="" group-title="{group}",{name}'
+                f'#EXTINF:-1 tvg-id="{ch_id}" tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}'
             )
 
-            # KODIPROP lines (ClearKey)
+            # KODIPROP lines
             m3u_lines.append("#KODIPROP:inputstream.adaptive.manifest_type=mpd")
             m3u_lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
             m3u_lines.append(f"#KODIPROP:inputstream.adaptive.license_key={license_key}")
@@ -58,7 +56,7 @@ def generate_m3u():
             # VLC User‑Agent
             m3u_lines.append(f"#EXTVLCOPT:http-user-agent={USER_AGENT}")
 
-            # HTTP headers as JSON
+            # HTTP headers
             headers = {
                 "cookie": cookie,
                 "Origin": "https://www.jiotv.com/",
