@@ -30,7 +30,7 @@ DEFAULT_JSON_URL = "https://m3u-86e.pages.dev/jtv-mb.json"
 DEFAULT_OUTPUT = "jtv2.m3u"
 DEFAULT_RETRIES = 3
 DEFAULT_TIMEOUT = 30
-USER_AGENT = "Mozilla/5.0 (compatible; M3U-Generator/1.0)"
+USER_AGENT = "Virat Kohli"
 
 # -------------------- Logging Setup --------------------
 def setup_logging(verbose: bool = False, log_file: Optional[str] = None) -> None:
