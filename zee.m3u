@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTVLCOPT:http-user-agent=Sayan10
-#EXTINF:-1 tvg-id="sf-top" group-title="Join Telegram: @streamstartv" tvg-logo="https://i.ibb.co/p67zjNDb/Install-Now-Net-X-Player.gif",Install NetX Player
-https://t.me/streamstartv
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="0-9-pictures" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_auto,h_396,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/list/1920x1080liste1864f84ee8f422e9a726e5fe401050c.png",&Pictures
