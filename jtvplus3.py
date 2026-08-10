@@ -1,6 +1,6 @@
 import urllib.request
 import urllib.error
-url = 'https://la.drmlive.net/tp/playlist'
+url = 'https://tataplayyash.streamxlive.workers.dev/'
 # We MUST use a specific User-Agent like OTT Navigator, TiviMate, or okhttp to get the playlist
 headers = {
     'User-Agent': 'OTT Navigator'
