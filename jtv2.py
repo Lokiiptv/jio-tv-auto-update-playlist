@@ -83,18 +83,13 @@ def generate_m3u(channels: List[Dict[str, Any]], source_url: str) -> str:
             lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
             lines.append(f"#KODIPROP:inputstream.adaptive.license_key={license_url}")
 
-        # Add user-agent (VLC and Kodi)
+        # VLC user-agent (only if present)
         if user_agent:
             lines.append(f"#EXTVLCOPT:http-user-agent={user_agent}")
-            lines.append(f"#KODIPROP:inputstream.adaptive.user_agent={user_agent}")
 
-        # Add headers (VLC and Kodi)
+        # VLC headers as JSON (only if present)
         if headers and isinstance(headers, dict):
-            # VLC: JSON object
             lines.append(f"#EXTHTTP:{json.dumps(headers)}")
-            # Kodi: header string with \r\n separators
-            header_str = "\r\n".join([f"{k}: {v}" for k, v in headers.items()])
-            lines.append(f"#KODIPROP:inputstream.adaptive.stream_headers={header_str}")
 
         lines.append(stream_url)
         lines.append("")
