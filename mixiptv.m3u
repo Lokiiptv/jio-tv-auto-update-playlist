@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz,https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz" x-billed-message="StreamX"
-# Generated: 10 Aug 2026, 16:27:45
+# Generated: 10 Aug 2026, 18:13:59
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -9196,17 +9196,13 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="fancode-0.5122240098562615" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247985_53005_WDL_EDR_fc-Web.png",2026)
+#EXTINF:-1 tvg-id="fancode-0.6484999512023406" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247985_53005_WDL_EDR_fc-Web.png",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4247985_english_hls_29c0c29e0a59151_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786434803~_GO=Generated~acl=/mumbai/4247985_english_hls_29c0c29e0a59151_1ta-di_h264/*~Signature=AYCJ36S5drRPv8KzLPK97DXQiHZu6akI9GO97KSFAlwzJ-Ry0BKpL8NdsjtJfQEBzdzNCQ0QXWCHD2JS3vPpgsF4vIwC
 
-#EXTINF:-1 tvg-id="fancode-0.3483438812706757" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",2026)
+#EXTINF:-1 tvg-id="fancode-0.3421254404287326" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786440270~_GO=Generated~acl=/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/*~Signature=AVMBkTV4HYsvb3DH8MRsO2iP3IdhIauZWmMDY9g05jFSxNzZ873EwVG_XqXW-hD4h9Hv8XDinPn3A4oIpfghRCvhaa4G
-
-#EXTINF:-1 tvg-id="sliv-event-0.14411289019432316" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708329156385_DC26_Mohun_Bagan_SG_vs_CISF_Protectors_landscape_thumb.jpg",Mohun Bagan SG vs CISF Protectors - 10 Aug 2026 [ENG] - IndianOil Durand Cup 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://sonydaimenew.akamaized.net/hls/live/20000292/Football1008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786402272~acl=/*~id=36009868960310701215553234332715~hmac=daae941a0129f94a8efc197db96eb8823d2de28c8453027a08150c86529a9bf5
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
