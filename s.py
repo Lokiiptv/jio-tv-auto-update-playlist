@@ -1,6 +1,6 @@
 import urllib.request
 import urllib.error
-url = 'https://neiwfusiion-rkdyiptv.pages.dev/api/rkdyiptv/playlist'
+url = 'https://la.drmlive.net/tp/playlist'
 # We MUST use a specific User-Agent like OTT Navigator, TiviMate, or okhttp to get the playlist
 headers = {
     'User-Agent': 'OTT Navigator'
