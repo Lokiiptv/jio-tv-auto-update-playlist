@@ -1,5 +1,4 @@
 name: Update JTV PLUS 6 Playlist
-
 on:
   schedule:
     - cron: '0 */1 * * *'
@@ -9,18 +8,14 @@ on:
       - main
     paths:
       - 'jtvplus6.py'
-
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-
     concurrency:
       group: update-jtv2
       cancel-in-progress: true
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -49,23 +44,39 @@ jobs:
           pip install requests pytz
 
       - name: Run Script
+        env:
+          TZ: Asia/Kolkata
         run: |
           python jtvplus6.py
 
       - name: Commit and Push Changes
         run: |
           git add jtvplus6.m3u
-          
+
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-          
-          git commit -m "Auto-update playlist ($(date -u '+%Y-%m-%d %H:%M UTC'))"
-          
-          # Fetch latest changes again and rebase
-          git fetch origin main
-          git rebase origin/main
-          
-          # Push the changes
-          git push origin main
+
+          git commit -m "JIOTV Updated ✅ ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+
+          max_retries=5
+          attempt=1
+
+          until [ $attempt -gt $max_retries ]
+          do
+            echo "Push attempt $attempt..."
+            git fetch origin main
+            git rebase origin/main
+
+            if git push origin main; then
+              echo "Push succeeded."
+              exit 0
+            else
+              echo "Push failed, retrying ($attempt/$max_retries)..."
+              attempt=$((attempt+1))
+              sleep $((RANDOM % 5 + 1))
+            fi
+          done
+
+          echo "Push
