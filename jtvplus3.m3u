@@ -18796,3 +18796,69 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/4sites/HLSPartner/index.m3u8
 #EXT-X-LICENSE-URL: https://servertvhub.site/jiotv+/keys.php?id=3530
 https://servertvhub.site/jiotv+/mpd.php?id=3530
 
+#EXTINF:-1 tvg-id="SONY-SAB-HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
+https://vortexsu.azmodz.in/sliv/master.php?id=sab_hd.m3u8
+
+#EXTINF:-1 tvg-id="SET-HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",SET HD
+https://shoebsitenew.dpdns.org/pushpa/sony.php/set-hd.m3u8
+
+#EXTINF:-1 tvg-id="SONY-PAL" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png",Sony Pal
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_pal.m3u8
+
+#EXTINF:-1 tvg-id="SONY-WAH" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png",Sony WAH
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_wah.m3u8
+
+#EXTINF:-1 tvg-id="SONY-MAX" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png",Sony MAX
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_max.m3u8
+
+#EXTINF:-1 tvg-id="SONY-MAX-HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max HD
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_max_hd.m3u8
+
+#EXTINF:-1 tvg-id="SONY-MAX2" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",Sony MAX2
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_max2.m3u8
+
+#EXTINF:-1 tvg-id="Ten1" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",Sony Sports Ten 1
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_ten1.m3u8
+
+#EXTINF:-1 tvg-id="Ten1HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",Sony Sports Ten 1 HD
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_ten1_hd.m3u8
+
+#EXTINF:-1 tvg-id="Ten2" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",Sony Sports Ten 2
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_ten2.m3u8
+
+#EXTINF:-1 tvg-id="Ten2HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",Sony Sports Ten 2 HD
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_ten2_hd.m3u8
+
+#EXTINF:-1 tvg-id="Ten3.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png",Sony Sports Ten 3
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_ten3.m3u8
+
+#EXTINF:-1 tvg-id="Ten3HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png",Sony Sports Ten 3 HD
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_ten3_hd.m3u8
+
+#EXTINF:-1 tvg-id="Ten4.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Tamil.png",Sony Sports Ten 4 Tamil
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_ten4.m3u8
+
+#EXTINF:-1 tvg-id="Ten4HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Telugu.png",Sony Sports Ten 4 Telugu
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_ten4_hd.m3u8
+
+#EXTINF:-1 tvg-id="Ten5" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png",Sony Sports Ten 5
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_ten5.m3u8
+
+#EXTINF:-1 tvg-id="Ten5HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",Sony Sports Ten 5 HD
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_ten5_hd.m3u8
+
+#EXTINF:-1 tvg-id="SONY-YAY!.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png",Sony Yay
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_yay.m3u8
+
+#EXTINF:-1 tvg-id="SONY-BBC-EarthHD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",Sony BBC Earth HD
+https://vortexsu.azmodz.in/sliv/master.php?id=bbc_earth.m3u8
+
+#EXTINF:-1 tvg-id="Sony-Pix-HD" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",Sony PIX HD
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_pix_hd.m3u8
+
+#EXTINF:-1 tvg-id="Sony-Marathi" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",Sony Marathi
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_marathi.m3u8
+
+#EXTINF:-1 tvg-id="Sony-Aath" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png",Sony Aath
+https://vortexsu.azmodz.in/sliv/master.php?id=sony_aath.m3u8
+
