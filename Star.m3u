@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TEST" tvg-name="Cookie Testing" tvg-logo="" group-title="Sports",Cookie Testing
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea3ad98932fd5df5ab26e5e845e4b941:86b6dd76818b8fa7a0bbd0f6113d65b0
+#EXTVLCOPT:http-user-agent=Sayan10
+#EXTHTTP:{"cookie":"__hdnea__=st=1786435674~exp=1786457274~acl=/*~hmac=1407a9ba21bdb9fc4fc17d8e0cfdd5e6277e1b715425cb615f699d5fd5128da9","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyAATH_MOB/WDVLive/index.mpd
+
 #EXTINF:-1 tvg-id="E1SD" tvg-name="Star Sports 1 SD" tvg-logo="" group-title="Sports",Star Sports 1 SD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
