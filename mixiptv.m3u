@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz,https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz" x-billed-message="StreamX"
-# Generated: 11 Aug 2026, 11:21:59
+# Generated: 11 Aug 2026, 12:17:56
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -9196,11 +9196,11 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="fancode-0.4172220490824503" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",China (ICC CWC Challenge League B 2026)
+#EXTINF:-1 tvg-id="fancode-0.034045888508641875" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",China (ICC CWC Challenge League B 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513728~_GO=Generated~acl=/mumbai/4248253_english_hls_ad6b731c0150196_1ta-di_h264/*~Signature=AVMBkTXMzyxTfS_b0N1gCQFQwCcbVPawGsDIj29XzbNFtLt3-LnL7lEGoxnwtuoKSW5yukmXAUo5JZeVv_EKCTyy2sUC
 
-#EXTINF:-1 tvg-id="fancode-0.26045382827565444" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",Italy vs Uganda (ICC CWC Challenge League B 2026)
+#EXTINF:-1 tvg-id="fancode-0.9799725422403295" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",Italy vs Uganda (ICC CWC Challenge League B 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://in-mc-flive.fancode.com/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786513729~_GO=Generated~acl=/mumbai/4248254_english_hls_b9c49fe8cd34044_1ta-di_h264/*~Signature=AVMBkTXYxk1HNZfUsjdKe_AyAmEIG3BMKGiuiT5k_lDImMB_A8qZ80K5k5d-aFJXG32Bg-CXf-OPdVmgOXJ3cjoH6wgP
 
