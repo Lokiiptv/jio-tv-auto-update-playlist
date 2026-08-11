@@ -68,6 +68,6 @@ def extract_star_sports(playlist_url, output_file):
     print(f"✅ Found {star_sports_count} Star Sports channel(s). Saved to '{output_file}'.")
 
 if __name__ == "__main__":
-    playlist_url = "https://raw.githubusercontent.com/SSK4570live/TV-/refs/heads/main/jtv.m3u"
+    playlist_url = "https://premiumplugjiotvplusplaylist.shieb6655.workers.dev/"
     output_file = "Star3.m3u"
     extract_star_sports(playlist_url, output_file)
