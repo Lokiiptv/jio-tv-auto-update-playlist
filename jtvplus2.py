@@ -86,4 +86,4 @@ def generate_m3u():
         print(f"❌ Unexpected error: {e}")
 
 if __name__ == "__main__":
-    generate_m3u() and also made jtv.json
+    generate_m3u()
