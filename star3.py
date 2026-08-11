@@ -1,7 +1,7 @@
 import urllib.request
 import urllib.error
 url = 'https://myhotstarapi.bmera5952.workers.dev/?playlist=1'
-# We MUST use a specific User-Agent like OTT Navigator, TiviMate, or okhttp to get the playlist
+
 headers = {
     'User-Agent': 'OTT Navigator'
 }
