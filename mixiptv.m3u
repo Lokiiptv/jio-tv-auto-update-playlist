@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz" x-billed-message="StreamX"
-# Generated: 12 Aug 2026, 18:13:38
+# Generated: 12 Aug 2026, 19:44:01
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -9196,17 +9196,25 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="event-0.8055430528057946" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",2026)
+#EXTINF:-1 tvg-id="event-0.30970366304021535" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786613531~_GO=Generated~acl=/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/*~Signature=AVMBkTVVa-mNyOXaL7V1xCQfbRjn6ioXAf1MgeRm47bW5lRm2AYoEIyd72GXx48-MveujYFtvFBB5H4ChbCAONip9mAI
 
-#EXTINF:-1 tvg-id="event-0.6604534944279314" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card1.png",China vs Uganda (ICC CWC Challenge League B 2026)
+#EXTINF:-1 tvg-id="event-0.3454605459548753" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247987_53005_EDR_SDS_fc-Web.png",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://in-mc-flive.fancode.com/mumbai/4248256_english_hls_350141a51478572_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786600176~_GO=Generated~acl=/mumbai/4248256_english_hls_350141a51478572_1ta-di_h264/*~Signature=AVMBkTU07DBm3GLScURD3VtDWkqsuWeSYO_7aPAuHM9mD49HnLO3oorx4H5lYyxU0jj1Raf8LC2avkry1oF6fPa214AC
+https://in-mc-flive.fancode.com/mumbai/4247987_english_hls_dbcd5584b412688_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786626893~_GO=Generated~acl=/mumbai/4247987_english_hls_dbcd5584b412688_1ta-di_h264/*~Signature=AVMBkTU0kWh4LChJhUAFJBWBSG9SBVX3jeuXnTDXvg_HdQKo77ThDDaq7-VKPFH9hQwV5JXbiFPbgELoHHT6Hda6o1cK
 
-#EXTINF:-1 tvg-id="event-0.77069903597668" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709204517385_DC26_Neroca_FC_vs_FC_Raengdai_landscape_thumb.jpg",Neroca FC vs FC Raengdai FT - 12 Aug 2026 [ENG] - IndianOil Durand Cup 2026
+#EXTINF:-1 tvg-id="event-0.911322224678982" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFC-Champions-League-Two_fc-web.jpg",East Bengal FC vs Al-Arabi (AFC Champions League Two Qualifier 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786581263~acl=/*~id=33271714812775785049418133771238~hmac=e60c7536005421fe346ffc897bf102533dfa23fcdd41fc9c5c489265ecd72591
+https://in-mc-flive.fancode.com/mumbai/4248401_english_hls_52b431dfcf39500_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786627502~_GO=Generated~acl=/mumbai/4248401_english_hls_52b431dfcf39500_1ta-di_h264/*~Signature=AVMBkTVI79rYJJtGb88ZoLUaWubh7YUa-9kjT1CUuxHAYVIypDcu7-HmfAu_RIZERoAQZ_bDsn9VTnj2QlQwZPJCObQE
+
+#EXTINF:-1 tvg-id="event-0.7171164004225459" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709330419385_DC26_Mohammedan_SC_vs_India_Army_FT_landscape_thumb.jpg",Mohammedan SC vs Indian Army FT - 12 Aug 2026 [ENG] - IndianOil Durand Cup 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://sonydaimenew.akamaized.net/hls/live/20000301/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786586738~acl=/*~id=40230083011513843616421435575771~hmac=d09ca3c12bd8883c9ae17e8d99e5d09d25f4e3eb38b4efdbba7bd0701352f1b1
+
+#EXTINF:-1 tvg-id="event-0.0228782549374118" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182944609520_Vitality_Mixed_Disability_4th_T20i_England_vs_India_landscape_thumb.jpg",England vs India - 4th T20I - 12 Aug 2026 [ENG] - Vitality Mixed Disability IT20 series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786586738~acl=/*~id=40230083011513843616421435575771~hmac=d09ca3c12bd8883c9ae17e8d99e5d09d25f4e3eb38b4efdbba7bd0701352f1b1
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
