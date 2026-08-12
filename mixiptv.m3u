@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz" x-billed-message="StreamX"
-# Generated: 12 Aug 2026, 22:16:00
+# Generated: 12 Aug 2026, 23:21:51
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -9195,14 +9195,6 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTVLCOPT:http-user-agent=OTT Navigator
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
-
-#EXTINF:-1 tvg-id="event-0.06499198638951398" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/33_1785532572236.png",2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://in-mc-flive.fancode.com/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786613531~_GO=Generated~acl=/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/*~Signature=AVMBkTVVa-mNyOXaL7V1xCQfbRjn6ioXAf1MgeRm47bW5lRm2AYoEIyd72GXx48-MveujYFtvFBB5H4ChbCAONip9mAI
-
-#EXTINF:-1 tvg-id="event-0.84782397283096" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247987_53005_EDR_SDS_fc-Web.png",2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://in-mc-flive.fancode.com/mumbai/4247987_english_hls_dbcd5584b412688_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786626893~_GO=Generated~acl=/mumbai/4247987_english_hls_dbcd5584b412688_1ta-di_h264/*~Signature=AVMBkTU0kWh4LChJhUAFJBWBSG9SBVX3jeuXnTDXvg_HdQKo77ThDDaq7-VKPFH9hQwV5JXbiFPbgELoHHT6Hda6o1cK
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
