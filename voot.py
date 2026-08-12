@@ -1,6 +1,6 @@
 import urllib.request
 import urllib.error
-url = 'https://premiumplugx.me/voot/playlist.m3u'
+url = 'https://voot.vodep39240327.workers.dev/?voot.m3u'
 # We MUST use a specific User-Agent like OTT Navigator, TiviMate, or okhttp to get the playlist
 headers = {
     'User-Agent': 'OTT Navigator'
