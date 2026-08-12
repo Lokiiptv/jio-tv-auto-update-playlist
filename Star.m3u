@@ -68,7 +68,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
 #EXTVLCOPT:http-user-agent=Sayan10
-#EXTHTTP:{"cookie":"__hdnea__=st=1786478614~exp=1786500214~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=f90ee329fc3d3db6ddac52fba55850a6d71c1b0a424ac05898d25997339c959e","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786501296~exp=1786522896~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=3d0ac8f47fe22b00a9b2d72b5b04aebe2870ed725e0bac18d0ac75e1d56ba398","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvpllive.cdn.jio.com//bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="SS3" tvg-name="Star Sports 3 SD" tvg-logo="" group-title="Sports",Star Sports 3 SD
