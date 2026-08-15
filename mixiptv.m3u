@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz" x-billed-message="StreamX"
-# Generated: 16 Aug 2026, 00:50:21
+# Generated: 16 Aug 2026, 01:50:16
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -6785,7 +6785,7 @@ http://pkg.uius.live/jplus/3274.mpd|drmScheme=clearkey&drmLicense=c8a2fb190fc957
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6576a2664bc1563db2abd4fc192152b2:452e28454297a4193dbdf8f5cebc70b0
 #EXTVLCOPT:http-user-agent=OTT Navigator
-#EXTHTTP:{"cookie":"__hdnea__=st=1786802364~exp=1786823964~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=2ecd2f755a3a69c6a691c324ccaaf982d92c63a511ad551d80e1dfbebc528232","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1786823964~exp=1786845564~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=7e38fab97f9eeb9936d1142116160feb5e030eebcea24d3a7028ebc3fc5d6549","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 http://pkg.uius.live/jplus/2852.mpd|drmScheme=clearkey&drmLicense=6576a2664bc1563db2abd4fc192152b2:452e28454297a4193dbdf8f5cebc70b0
 
 #EXTINF:-1 tvg-id="1998" group-title="JioTV+ ▶ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsKhel.png",Star Sports Khel
@@ -9196,51 +9196,43 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="event-0.6289042274521548" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248336_53029_LCK_GOR_FC-Web_1786702852057.png",2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://in-mc-flive.fancode.com/mumbai/4248336_hindi_hls_4ea7034b4f81248_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786888435~_GO=Generated~acl=/mumbai/4248336_hindi_hls_4ea7034b4f81248_1ta-di_h264/*~Signature=AVMBkTVM7D64US7yLrKgpyCVWhUw6Rjoy7MDlDfeSRK85EnJX53edzPqwhr0Qz03bwyJ6_ruyEIyVE_aZDQko7nUrB8K
-
-#EXTINF:-1 tvg-id="event-0.030119521198018973" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247576_53004_ALA_GEF_FC-Web.png",Deportivo Alaves vs Getafe CF (LALIGA 2026-27)
+#EXTINF:-1 tvg-id="event-0.9773072416142059" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247576_53004_ALA_GEF_FC-Web.png",Deportivo Alaves vs Getafe CF (LALIGA 2026-27)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4247576_english_hls_24b7f1367d58903_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786900090~_GO=Generated~acl=/mumbai/4247576_english_hls_24b7f1367d58903_1ta-di_h264/*~Signature=AVMBkTVqgGSYSndgm3LHP7E0CpxRmRce-fOgSGNS5smZkM1n65hx0kOSoQwNmT5e2LpAEYuYv5ipe-og989w4hUUACUA
 
-#EXTINF:-1 tvg-id="event-0.4309907810958238" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248268_53025_ITT_ALK_FC-Web.png",Al-Ittihad vs Al-Kholood Club (Roshn Saudi League 2026-2027)
+#EXTINF:-1 tvg-id="event-0.2199755618567626" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248268_53025_ITT_ALK_FC-Web.png",Al-Ittihad vs Al-Kholood Club (Roshn Saudi League 2026-2027)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248268_english_hls_386aa0f07060831_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786902542~_GO=Generated~acl=/mumbai/4248268_english_hls_386aa0f07060831_1ta-di_h264/*~Signature=AVMBkTUGYIWBpuAfsSph3q4jGrcZWcwK-h2PrfSOxbq0sulYJZyigocODpSr7YPLRMeOrbLFAe3Q1kmHOG1jeP6ycbEI
 
-#EXTINF:-1 tvg-id="event-0.16360091705079383" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248269_53025_ANF_AFF_FC-Web.png",Al-Nassr FC vs Al-Fateh SC (Roshn Saudi League 2026-2027)
+#EXTINF:-1 tvg-id="event-0.5871438295628727" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248269_53025_ANF_AFF_FC-Web.png",Al-Nassr FC vs Al-Fateh SC (Roshn Saudi League 2026-2027)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248269_english_hls_93d426633e72891_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786902544~_GO=Generated~acl=/mumbai/4248269_english_hls_93d426633e72891_1ta-di_h264/*~Signature=AVMBkTWXkJURjhHC7UwmO2sRi0lZenK58TQw3Q8Ru128hSp5eZC3aIHKCgjNQuJuN4EQyIPx1WvM4KS8bsa2j_sR5xoD
 
-#EXTINF:-1 tvg-id="event-0.39240169955002124" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247568_53004_SEV_RVL_FC-Web.png",Sevilla FC vs Rayo Vallecano (LALIGA 2026-27)
+#EXTINF:-1 tvg-id="event-0.6872979866120019" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247568_53004_SEV_RVL_FC-Web.png",Sevilla FC vs Rayo Vallecano (LALIGA 2026-27)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4247568_english_hls_df4cfa719c8142_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786906811~_GO=Generated~acl=/mumbai/4247568_english_hls_df4cfa719c8142_1ta-di_h264/*~Signature=AVMBkTWz6XBjul77bSwdYoyJmQQY-Y84_XkTUQYEnlw2zQPvgg1G5S8B0vQ-BXavAFsrZunSEVvJz5Q8012rV1K4yfQB
 
-#EXTINF:-1 tvg-id="event-0.17341811975267285" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248178_53017_RO_GRD_FC-Web.png",Real Oviedo vs Granada (LALIGA Hypermotion 2026-27)
+#EXTINF:-1 tvg-id="event-0.549412411701039" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",Tennessee (FedEx St. Jude Championship 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://in-mc-flive.fancode.com/mumbai/4248178_english_hls_0db253f0d39245_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786898862~_GO=Generated~acl=/mumbai/4248178_english_hls_0db253f0d39245_1ta-di_h264/*~Signature=AVMBkTX82z24XJmvAemercNJk6RSbPx1uDCT4PJfFYy8oQJUm1Y9MlAKSgHziFbWG4LJrHF5M-DKUF_lpKDGVEMRnrUC
+https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786910455~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTVMmXmAwN1AFD0IMFmIquneUT8hcitGDL-SI4fpT697GSbJ-Pf7OM-3-7iTASmiel-kbgUP6t6kgDSVnv4gMZ0O
 
-#EXTINF:-1 tvg-id="event-0.7449226406976129" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",Tennessee (FedEx St. Jude Championship 2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://in-mc-flive.fancode.com/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786881112~_GO=Generated~acl=/mumbai/4248408_english_hls_41ed2182d134290_1ta-di_h264/*~Signature=AVMBkTUuPwVfK5gpj1ATFjOApdsEyzwo-cTTjC6YVAh8R0k92QfAwHtn1m9cJ3ZhZ14xxvv7GwPr9Q48ePLeaTPaW1MB
-
-#EXTINF:-1 tvg-id="event-0.452100225137237" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
+#EXTINF:-1 tvg-id="event-0.500870122845762" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248114_english_hls_a57b5f7c3484034_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786891509~_GO=Generated~acl=/mumbai/4248114_english_hls_a57b5f7c3484034_1ta-di_h264/*~Signature=AVMBkTXRh3KHK82aPreLzVe6nC71yxmAcCnNf1ujdUCIcDIzvwwLfMrX9W49MGCrruFlsyTZmPxpLgkFkflW1739j0cO
 
-#EXTINF:-1 tvg-id="event-0.7771853874665403" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
+#EXTINF:-1 tvg-id="event-0.6013209895659858" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248115_english_hls_cd4923856285672_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786891508~_GO=Generated~acl=/mumbai/4248115_english_hls_cd4923856285672_1ta-di_h264/*~Signature=AVMBkTVAzz0cQaZTwBlmoTg2q9_33UfLX86csVYT_ck8gJpaSGbrKQiOfCLvjXwdFJNhTQd-5HOUlLHiULxm9CEE3LUI
 
-#EXTINF:-1 tvg-id="event-0.7598275767579319" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
+#EXTINF:-1 tvg-id="event-0.7197545315825954" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248116_english_hls_a195ec36e02873_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786898864~_GO=Generated~acl=/mumbai/4248116_english_hls_a195ec36e02873_1ta-di_h264/*~Signature=AVMBkTUDIwoZEEBpIt5dVziUeXWQJXDqtIh_K6Jorp3PUd08UZQ2BLanzg47JyOWghncBI_lNyaqISxtsnxXnevhtR8J
 
-#EXTINF:-1 tvg-id="event-0.41617314452452114" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",Tennessee (FedEx St. Jude Championship 2026)
+#EXTINF:-1 tvg-id="event-0.42966776027258924" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",Tennessee (FedEx St. Jude Championship 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248404_english_hls_23c89b3bfa17494_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786899474~_GO=Generated~acl=/mumbai/4248404_english_hls_23c89b3bfa17494_1ta-di_h264/*~Signature=AVMBkTW_3K5tziu-lSdHSA8J4uGs625W1jQqDrZ3eV3g6Fy3gn9M4tb8Us5J_K75bA0qLq6j80AexA3vHsYrcL_eSyUJ
 
-#EXTINF:-1 tvg-id="event-0.09636109344636501" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
+#EXTINF:-1 tvg-id="event-0.08818003396086382" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248117_english_hls_9c03e7126085619_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786900703~_GO=Generated~acl=/mumbai/4248117_english_hls_9c03e7126085619_1ta-di_h264/*~Signature=AVMBkTU0Mc26kjml-T2QrMNV_JNjxg6GUiVsh20ne-8_zYv7nmKZq9dVhr0IS61WLMAqgDwrvxbrOSRWp4c1bt3YVHYJ
 
