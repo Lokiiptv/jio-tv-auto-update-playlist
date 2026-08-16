@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz" x-billed-message="StreamX"
-# Generated: 16 Aug 2026, 19:00:35
+# Generated: 16 Aug 2026, 20:49:49
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -9196,37 +9196,49 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="event-0.08705863843454753" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248340_53029_KAS_KAN_FC-Web_1786702852064.png",2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://in-mc-flive.fancode.com/mumbai/4248340_hindi_hls_9102373cf934876_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786957900~_GO=Generated~acl=/mumbai/4248340_hindi_hls_9102373cf934876_1ta-di_h264/*~Signature=AVMBkTWt3ZcsR6FWp_cvrNkIF3EivXiUbb2VTtsV9g-XR1xTzPpZTPk7Wqpb-ja3sr_kbAUlz4bvDi7uhF0e1Z-jDgAP
-
-#EXTINF:-1 tvg-id="event-0.1335943596372997" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247998_53005_ODW_PD_fc-Web.png",2026)
+#EXTINF:-1 tvg-id="event-0.6486568891385075" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247998_53005_ODW_PD_fc-Web.png",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786972506~_GO=Generated~acl=/mumbai/4247998_english_hls_19cd8517ff8022_1ta-di_h264/*~Signature=AVMBkTUYR9dPdpu5R2dyKACPBDiZxwlB-Jx_aBjWdsLrELCyS1X19y0axfaL1JTwFlhZzeFNkDudX9Cx2lgwFfiKwPkO
 
-#EXTINF:-1 tvg-id="event-0.27476135714973815" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247470_52993_WAT_SOU_fc-web_1786657253801.jpg",Watford F.C. vs Southampton F.C. (EFL Championship 2026-27)
+#EXTINF:-1 tvg-id="event-0.8313011058784221" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248337_53029_GOR_MER_FC-Web_1786702851399.png",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://in-mc-flive.fancode.com/mumbai/4247470_english_hls_2f4a665fac53200_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786969459~_GO=Generated~acl=/mumbai/4247470_english_hls_2f4a665fac53200_1ta-di_h264/*~Signature=AVMBkTXyPcrbAmDHJ-xKjNJQEFNHif5ysgpuNfTYufxjt8bcbkT6yP-UC71wMJO50hd2cAXPLemS7yAUvFw1smtLpwsE
+https://in-mc-flive.fancode.com/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786974334~_GO=Generated~acl=/mumbai/4248337_hindi_hls_601732f91897420_1ta-di_h264/*~Signature=AVMBkTWoS5KCyN7_N_xW1igJubB2Yv60ijc44h25bq00udbmsH3_U5C5N0rUnZfsrOWizDGymx4ZYB0YLZTm9SS-tvwH
 
-#EXTINF:-1 tvg-id="event-0.917452990530813" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",Tennessee (FedEx St. Jude Championship 2026)
+#EXTINF:-1 tvg-id="event-0.5558525996964137" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247471_52993_BUR_WHU_fc-web_1786657253038.jpg",Burnley vs West Ham United (EFL Championship 2026-27)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://in-mc-flive.fancode.com/mumbai/4247471_english_hls_b78878245530114_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786977989~_GO=Generated~acl=/mumbai/4247471_english_hls_b78878245530114_1ta-di_h264/*~Signature=AVMBkTVjWsj2U8_BaI_qI70Wx9HG7Ag-9YlHzEeMX355eUFd9TYyc19OwePfRQmEG2njEDThIKEGhja8YNah-w3PqU8O
+
+#EXTINF:-1 tvg-id="event-0.7370021043137186" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247575_53004_RAC_VIL_FC-Web.png",Racing Club de Santander vs Villarreal CF (LALIGA 2026-27)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://in-mc-flive.fancode.com/mumbai/4247575_english_hls_afb1fd9aa065624_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786977374~_GO=Generated~acl=/mumbai/4247575_english_hls_afb1fd9aa065624_1ta-di_h264/*~Signature=AVMBkTUXVbgftOBJetafMlzQ-QHhOjq3v9BSusXaz5wuW0So3oJ0agantrFuiQvLVBWEsIzWcpuUWRLX5Q8DB2hYS_wP
+
+#EXTINF:-1 tvg-id="event-0.6090642116949193" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248026_53006_SCH_RM_FC-WEB.png",FC Schalke 04 vs Real Madrid (Club Friendlies 2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://in-mc-flive.fancode.com/mumbai/4248026_english_hls_a11db01b9e65935_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786977991~_GO=Generated~acl=/mumbai/4248026_english_hls_a11db01b9e65935_1ta-di_h264/*~Signature=AVMBkTVvwNq4iEpBEqaSJLPBdXkn2GSY8PBSBXUdVFx3n9k1WArV_xPQhtnEk-VAVZzydp80Shgag85xXFffZc7k4J4F
+
+#EXTINF:-1 tvg-id="event-0.6241796763951158" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg",Tennessee (FedEx St. Jude Championship 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248409_english_hls_63b91bb2ba13925_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786966414~_GO=Generated~acl=/mumbai/4248409_english_hls_63b91bb2ba13925_1ta-di_h264/*~Signature=AVMBkTWja-4JKx3H25Ic1sR8H-98IJrSp-bBp_v8h23j6Vyygm7bPEKXeInoyA2Grtghoa1Cw2IR0dRowbEQ_oEO-s8I
 
-#EXTINF:-1 tvg-id="event-0.46188988188330615" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/DTM2.png",Germany (DTM 2026)
+#EXTINF:-1 tvg-id="event-0.8547416052825462" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://in-mc-flive.fancode.com/mumbai/143819_english_hls_21cc682cee32625_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1786971895~_GO=Generated~acl=/mumbai/143819_english_hls_21cc682cee32625_1ta-di_h264/*~Signature=AVMBkTVPo2C7aOgqICk8Tl8IR5SRDZhtTy82HcU6LibGvpb5HCZSOViosPDb9PeQ35mQkZo9uhJdKxNRAyq_YULwCC8D
+https://in-mc-flive.fancode.com/mumbai/4248118_english_hls_30243de44c10575_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786977992~_GO=Generated~acl=/mumbai/4248118_english_hls_30243de44c10575_1ta-di_h264/*~Signature=AVMBkTUy2Qm82Bxi7uqApej374ztp1LB6eJ3sg_l-W8NyC9P1Mi0T-G4mHw3E-vdok8MkyZZj3xhDN916Xbhhin1kEYE
 
-#EXTINF:-1 tvg-id="event-0.04825899791784283" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182960054520_Vitality_Mixed_Disability_6th_T20i_England_vs_India_landscape_thumb.jpg",England vs India - 6th T20I - 16 Aug 2026 [ENG] - Vitality Mixed Disability IT20 series
+#EXTINF:-1 tvg-id="event-0.35615406604954347" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sonydaimenew.akamaized.net/hls/live/20000388/Cricket_1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786929923~acl=/*~id=06198262697037740266604390484154~hmac=16fcc9ed164cca26d5be84b8b3f78aa17eccbc62b47da34b4ac0bd57e4880311
+https://in-mc-flive.fancode.com/mumbai/4248119_english_hls_d1d8b3def993962_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786977993~_GO=Generated~acl=/mumbai/4248119_english_hls_d1d8b3def993962_1ta-di_h264/*~Signature=AVMBkTVCU90VDfLxvqjGLj-15K9ISoXYdqO6nQkewMSXqgpG95I5IxgrsfXnGFq0LvDOjPgbMnh1C-GSKEg17oBPFgIJ
 
-#EXTINF:-1 tvg-id="event-0.43179264634162895" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704735257524_ABB_FIA_FormulaE_WC26_R17_London_EPrix_final_Race_landscape_thumb.jpg",R17 - London E-Prix - Final Race - 16 Aug 2026 [ENG] - ABB FIA Formula E World Championship
+#EXTINF:-1 tvg-id="event-0.9295787727534032" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png",United States (ATP Masters Cincinnati Open 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786929923~acl=/*~id=06198262697037740266604390484154~hmac=16fcc9ed164cca26d5be84b8b3f78aa17eccbc62b47da34b4ac0bd57e4880311
+https://in-mc-flive.fancode.com/mumbai/4248120_english_hls_3072231e2b6878_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786977994~_GO=Generated~acl=/mumbai/4248120_english_hls_3072231e2b6878_1ta-di_h264/*~Signature=AVMBkTVjl4-ADH0IW1Ei1QIwRn5S90pZZjwyFvRIXRNiFwD7EGWE8CixzmT68J1Tfp6Ksuig8qXrztyIQJDFBic9sbQI
 
-#EXTINF:-1 tvg-id="event-0.1918663042319172" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg",Danish Golf Championship - Day 4 - 16 Aug 2026 [ENG] - DP World Tour
+#EXTINF:-1 tvg-id="event-0.4286135720217311" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182960054520_Vitality_Mixed_Disability_6th_T20i_England_vs_India_landscape_thumb.jpg",England vs India - 6th T20I - 16 Aug 2026 [ENG] - Vitality Mixed Disability IT20 series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786929923~acl=/*~id=06198262697037740266604390484154~hmac=16fcc9ed164cca26d5be84b8b3f78aa17eccbc62b47da34b4ac0bd57e4880311
+https://sonydaimenew.akamaized.net/hls/live/20000388/Cricket_1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786936029~acl=/*~id=27083061309113800995982187872345~hmac=6f2730ebba0f8be37ea06a41ca0ac56f361a578746a4e222ef827b88adb1e4de
+
+#EXTINF:-1 tvg-id="event-0.42841636126542315" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704735257524_ABB_FIA_FormulaE_WC26_R17_London_EPrix_final_Race_landscape_thumb.jpg",R17 - London E-Prix - Final Race - 16 Aug 2026 [ENG] - ABB FIA Formula E World Championship
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786936029~acl=/*~id=27083061309113800995982187872345~hmac=6f2730ebba0f8be37ea06a41ca0ac56f361a578746a4e222ef827b88adb1e4de
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
