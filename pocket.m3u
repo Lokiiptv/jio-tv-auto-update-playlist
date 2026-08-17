@@ -234,12 +234,6 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_International_HD_MOB/WDVLive/index
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
 https://jiotvmblive.cdn.jio.com/bpk-tv/Lionsgate_Play_MOB/WDVLive/index.mpd?__hdnea__=st=1786937407~exp=1786959007~acl=/*~hmac=5ec26e899d3c1d7ca515d961f2e38f001d37ce1f123b7b79ce77394c1acd2621
 
-#EXTINF:-1 tvg-id="433" group-title="Entertainment" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/NickHDPlus_Thumbnail_c2d3ac26-019f-4f66-9dec-8c1228f92ddf.png",Nick HD+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0508bb9a7e695fe99c7c547d84f60522:85330921d24866be8d5b9da65ad01965
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_HD_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1786937407~exp=1786959007~acl=/*~hmac=5ec26e899d3c1d7ca515d961f2e38f001d37ce1f123b7b79ce77394c1acd2621
-
 #EXTINF:-1 tvg-id="ts443" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/478_144.png",Sun News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8b0b960d29658969d74da596e2787e1:9b4051847231c9e1fd717df5aa5e0eea
@@ -407,6 +401,12 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/DiscoveryKidsHin_MOB/WDVLive/index.mpd?__
 #KODIPROP:inputstream.adaptive.license_key=271a8e6c5d9d5696a11c474a5c18371c:d6e2ece0c28b900dc6a868991cdf2517
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyYAYHin_MOB/WDVLive/index.mpd?__hdnea__=st=1786937407~exp=1786959007~acl=/*~hmac=5ec26e899d3c1d7ca515d961f2e38f001d37ce1f123b7b79ce77394c1acd2621
+
+#EXTINF:-1 tvg-id="433" group-title="Kids" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/NickHDPlus_Thumbnail_c2d3ac26-019f-4f66-9dec-8c1228f92ddf.png",Nick HD+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0508bb9a7e695fe99c7c547d84f60522:85330921d24866be8d5b9da65ad01965
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/Nick_HD_Plus_MOB/WDVLive/index.mpd?__hdnea__=st=1786937407~exp=1786959007~acl=/*~hmac=5ec26e899d3c1d7ca515d961f2e38f001d37ce1f123b7b79ce77394c1acd2621
 
 #EXTINF:-1 tvg-id="ts616" group-title="Infotainment" tvg-logo="https://tatalogo.pages.dev/616.png",History TV18 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -869,7 +869,7 @@ https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_ind
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4df8f920386e4346ba6b7d7ae935d668:c5fcaa8df5663365d938a50987f71b84
-#EXTINF:-1 tvg-id="443" tvg-logo="https://sund-images.sunnxt.com/194404/1600x1200_SunNews_194404_0105c754-b56f-4706-84cd-b4d079575f48.png" group-title="SunNXT", Sun News
+#EXTINF:-1 tvg-id="ts443" tvg-logo="https://sund-images.sunnxt.com/194404/1600x1200_SunNews_194404_0105c754-b56f-4706-84cd-b4d079575f48.png" group-title="SunNXT", Sun News
 https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -1406,7 +1406,7 @@ https://hls-abiri0ry-livepush.akamaized.net/live_cdn/nsiPyyYPqaaCfd/emECWxBE00V4
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7BNxzX2gTLtNlpZZ0J6A83a7yhQ5QmZAbI3Ztlpo_0cKalWhUAXKAIJWsG9zy7joVfNUkyE=s900" group-title="Overseas",ITN Srilanka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://itn.lk/
-https://hls-abiri0ry-livepush.akamaized.net/live_abr_cdn/nsiPyyYPqaaCfd/em0l9G8dNuBQsYh35/tracks-v3a1/rewind-3600.m3u8
+https://hls-abiri0ry-livepush.akamaized.net/live_cdn/nsiPyyYPqaaCfd/em0l9G8dNuBQsYh35/tracks-v1a1/rewind-3600.m3u8
 
 #EXTINF: -1 tvg-id="SriLanka" tvg-logo="https://i.ibb.co/ZB5Sqsn/1000155759-photoaidcom-cropped.png" group-title="Overseas", Siyatha TV
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
@@ -1595,8 +1595,6 @@ https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 https://stream.ottlive.co.in/suriyantvtamil/index.m3u8
 #EXTINF:-1 tvg-id="Tamil Ratna" tvg-logo="" tvg-region="Old" group-title="Local Channels",Tamil Ratna
 https://mumt04.tangotv.in/m18aqlK4TAMILRATNAM/index.m3u8
-#EXTINF:-1 tvg-id="AnandamTVMadurai" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1746452472_lo.png" tvg-region="Madurai" group-title="Local Channels",Anandam TV Madurai
-https://iptvhls.inet.moe/hls/test_src/index.m3u8
 #EXTINF:-1 tvg-id="OMTV" tvg-logo="" tvg-region="Unknown" group-title="Local Channels",OM TV
 http://198.144.158.33:8888/TAMIL-TV_OMTV_LIVE_Transcoder/index.m3u8
 
@@ -1633,12 +1631,6 @@ https://ipcloud.live/ctn/ctntvhd/index.m3u8
 https://ipcloud.live/thirumalaitv/madurai/index.m3u8
 #EXTINF:-1 tvg-id="NilaTV" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1772708977_Nila Tv_00151.png" tvg-region="Sivaganga;Madurai" group-title="Local Channels",Nila TV Sivaganga
 https://ipcloud.live/nilatvsvg/nilatv/index.m3u8
-#EXTINF:-1  tvg-name="Sachin Music" group-title="Music" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240417_221843171827643876355363.png",Sachin Music
-#https://ipcloud.live/sachintv/musichd/index.m3u8
-#EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240417_2219106701280619230998159.png" group-title="Local Channels",Dhoni TV
-https://ipcloud.live/sachintv/dhonitv/index.m3u8
-#EXTINF:-1  tvg-name="Sachin Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240417_2218206136769517062907412.png",Sachin Tv
-https://ipcloud.live/sachintv/sachintvhd/index.m3u8
 #EXTINF:-1  tvg-name="Rio Tv" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240402_0221238756828529382335106.png",Rio Tv
 https://ipcloud.live/riotv/riotvhd/index.m3u8
 #EXTINF:-1 tvg-id="ShaliniTVTiruvannamalai" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1746462375_WhatsApp_Image_2025-05-05_at_8.18.04_PM-removebg-preview.png&w=1080&q=75" group-title="Local Channels",Shalini TV Tiruvannamalai
@@ -2376,8 +2368,6 @@ http://198.144.149.206:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR
 http://198.144.149.206:8080/NOTV/VTV1/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="ezhil_tv_1" tvg-name="Ezhil Tv" tvg-logo="https://tataprime.files.wordpress.com/2024/03/wp7099274080036153872233203114333.png" group-title="Local Channels",Ezhil Tv
 http://198.144.149.206:8080/NOTV/EZHILTV/index.m3u8?token=GTR
-#EXTINF:-1tvg-id="" tvg-logo="" group-title="Music",TSNMUSIC
-#http://198.144.149.206:8080/NOTV/VAAGAI/index.m3u8?token=GTR
 #EXTINF:-1 tvg-name="SNR Tv" group-title="Local Channels" tvg-logo="https://i.ibb.co/xt6mtWj5/1000136482.png",SNR Tv
 http://198.144.149.206:8080/NOTV/ASOSACHENNAI/index.m3u8?token=GTR
 #EXTINF:-1 tvg-id="" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1785677325_WhatsApp%20Image%202026-08-02%20at%206.53.09%20PM.jpeg" tvg-name="Chither TV" group-title="Local Channels", Chither TV
