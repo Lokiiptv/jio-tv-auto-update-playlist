@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz" x-billed-message="StreamX"
-# Generated: 18 Aug 2026, 16:54:04
+# Generated: 18 Aug 2026, 18:14:45
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
@@ -4258,7 +4258,7 @@ http://pkg.uius.live/jplus/336.mpd|drmScheme=clearkey&drmLicense=ac5fe0f7b01659a
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fb941b7c6fe54fb8f66b19804eff952:c1b742ed7b6d4eca1c6bdcb9041d9b80
 #EXTVLCOPT:http-user-agent=OTT Navigator
-#EXTHTTP:{"cookie":"Error: Token not found (Status 404)","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"Error: Token not found (Status 520)","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 http://pkg.uius.live/jplus/1121.mpd|drmScheme=clearkey&drmLicense=3fb941b7c6fe54fb8f66b19804eff952:c1b742ed7b6d4eca1c6bdcb9041d9b80
 
 #EXTINF:-1 tvg-id="3099" group-title="JioTV+ ▶ | Marathi" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture.png",Star Pravah Picture
@@ -6673,7 +6673,7 @@ http://pkg.uius.live/jplus/1142.mpd|drmScheme=clearkey&drmLicense=df20894ec30954
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 #EXTVLCOPT:http-user-agent=OTT Navigator
-#EXTHTTP:{"cookie":"Error: Token not found (Status 404)","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"Error: Token not found (Status 520)","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 http://pkg.uius.live/jplus/1108.mpd|drmScheme=clearkey&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 
 #EXTINF:-1 tvg-id="362" group-title="JioTV+ ▶ | Sports" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg",Star Sports 1 Hindi
@@ -7856,7 +7856,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Music_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59060fae4daf542b9b0dd6a361b62b95:4f4c689aaeb72b0f31e531215a139726
 #EXTVLCOPT:http-user-agent=OTT Navigator
-#EXTHTTP:{"cookie":"__hdnea__=st=1787048767~exp=1787070367~acl=/bpk-tv/Maa_Gold_BTS/WDVLive/*~hmac=075615f1607b9f8147539995fc2556c2ec90e62512c3417a3450a0fb5841c403","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+#EXTHTTP:{"cookie":"__hdnea__=st=1787051166~exp=1787072766~acl=/bpk-tv/Maa_Gold_BTS/WDVLive/*~hmac=766d5834a7310fa371c7a5abcbf253b31fd68c78d798be308063c04f83f12542","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_Gold_MOB/WDVLive/index.mpd
 
 #EXTINF:-1 tvg-id="1242" group-title="JioTV+ ▶ | Telugu" group-logo="https://i.postimg.cc/52qG6sKt/STREAMXi.png" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png",Sonic Telugu
@@ -9196,37 +9196,33 @@ https://yashlivetv.fun/phpdirect.php?id=0-9-zeecafehd
 #EXTHTTP:{"cookie":"","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
 https://yashlivetv.fun/phpdirect.php?id=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-id="event-0.13770494899026753" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247994_53005_PD_NDS_fc-Web.png",2026)
+#EXTINF:-1 tvg-id="event-0.14578584561246077" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247994_53005_PD_NDS_fc-Web.png",2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787125941~_GO=Generated~acl=/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/*~Signature=ARceAWNrwW2ZH1p-QWupusfMLfULAWBWpNjiSyB1GceKwL8yi-_Rg6pBg_7TsPo2vVZAqSu1KvpjOCB1AbTPjCW4O38P
 
-#EXTINF:-1 tvg-id="event-0.14478396756800127" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",Uganda vs Bahrain (ICC CWC Challenge League B 2026)
+#EXTINF:-1 tvg-id="event-0.7255514804729065" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png",Uganda vs Bahrain (ICC CWC Challenge League B 2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://in-mc-flive.fancode.com/mumbai/4248262_english_hls_f5aeb2c4ee71854_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787118636~_GO=Generated~acl=/mumbai/4248262_english_hls_f5aeb2c4ee71854_1ta-di_h264/*~Signature=ARceAWMOzkcGHDOlt1WpPTKvfe3dFWyYMS0vU3498dYVcI3_hSlF2iRUfpl7j3AaiZeZ2yHNhCZ0TTyjPa2kS5vwF6EH
 
-#EXTINF:-1 tvg-id="event-0.857366942323122" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248379_53031_FIN_LUX_fc-web.jpg",2026)
+#EXTINF:-1 tvg-id="event-0.3939768713006987" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://img.media.jio.com/tvpimages/65/17/f93915dba0935bf38e816a66674c9d2e_1787045421820_l_medium.jpg",Day 4 - 1st Test - 18 Aug 2026 [English] - India Tour of Sri Lanka 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://in-mc-flive.fancode.com/mumbai/4248379_english_hls_7c7dcf2d1f43393_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787125944~_GO=Generated~acl=/mumbai/4248379_english_hls_7c7dcf2d1f43393_1ta-di_h264/*~Signature=ARceAWN35NopMZ5LXCWWmD-RXKWgVGupxJe-03gxF7eHpaDDPZNQHZ3Sc6QVI2mGCofT-m0F0Z-UKX5Su7f-nFBboUkM
+https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1808/ENG/master.m3u8?hdnea=exp=1787099967~acl=/*~id=62093774085826178665473545950273~hmac=f8e608d2a887b6202ec7637c9c826e76b47eea5ece4b393e95c7974a48b4676a
 
-#EXTINF:-1 tvg-id="event-0.9829749015059859" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://img.media.jio.com/tvpimages/65/17/f93915dba0935bf38e816a66674c9d2e_1787045421820_l_medium.jpg",Day 4 - 1st Test - 18 Aug 2026 [English] - India Tour of Sri Lanka 2026
+#EXTINF:-1 tvg-id="event-0.6844340280977607" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://img.media.jio.com/tvpimages/37/60/7dd327ddf57e5e8684ad6e1d849c2220_1787045421721_l_medium.jpg",Day 4 - 1st Test - 18 Aug 2026 [Tamil] - India Tour of Sri Lanka 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1808/ENG/master.m3u8?hdnea=exp=1787095086~acl=/*~id=19767165056191684788957526058382~hmac=20f15ff38b793c7aade7f048172f47215b41c233e5e20cd0a7f8cd93eba0bb94
+https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1808/TAM/master.m3u8?hdnea=exp=1787099967~acl=/*~id=62093774085826178665473545950273~hmac=f8e608d2a887b6202ec7637c9c826e76b47eea5ece4b393e95c7974a48b4676a
 
-#EXTINF:-1 tvg-id="event-0.9344378858045707" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://img.media.jio.com/tvpimages/2/73/355e6f0ed1d85a0ba49b36a60d5b18be_1787045421837_l_medium.jpg",Day 4 - 1st Test - 18 Aug 2026 [Telugu] - India Tour of Sri Lanka 2026
+#EXTINF:-1 tvg-id="event-0.8863915776428953" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://img.media.jio.com/tvpimages/75/16/2b3b5f2d708853b393ae29f8ca2acc55_1787045421771_l_medium.jpg",Day 4 - 1st Test - 18 Aug 2026 [Kannada] - India Tour of Sri Lanka 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1808/TEL/master.m3u8?hdnea=exp=1787095086~acl=/*~id=19767165056191684788957526058382~hmac=20f15ff38b793c7aade7f048172f47215b41c233e5e20cd0a7f8cd93eba0bb94
+https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1808/KAN/master.m3u8?hdnea=exp=1787099967~acl=/*~id=62093774085826178665473545950273~hmac=f8e608d2a887b6202ec7637c9c826e76b47eea5ece4b393e95c7974a48b4676a
 
-#EXTINF:-1 tvg-id="event-0.8201198781784047" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://img.media.jio.com/tvpimages/75/16/2b3b5f2d708853b393ae29f8ca2acc55_1787045421771_l_medium.jpg",Day 4 - 1st Test - 18 Aug 2026 [Kannada] - India Tour of Sri Lanka 2026
+#EXTINF:-1 tvg-id="event-0.46162850132785993" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://img.media.jio.com/tvpimages/67/13/55e85d2871b45e319621d7ce3c19c10e_1787045421754_l_medium.jpg",Day 4 - 1st Test - 18 Aug 2026 [Hindi] - India Tour of Sri Lanka 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1808/KAN/master.m3u8?hdnea=exp=1787095086~acl=/*~id=19767165056191684788957526058382~hmac=20f15ff38b793c7aade7f048172f47215b41c233e5e20cd0a7f8cd93eba0bb94
+https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1808/HIN/master.m3u8?hdnea=exp=1787099967~acl=/*~id=62093774085826178665473545950273~hmac=f8e608d2a887b6202ec7637c9c826e76b47eea5ece4b393e95c7974a48b4676a
 
-#EXTINF:-1 tvg-id="event-0.010405035271694563" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://img.media.jio.com/tvpimages/67/13/55e85d2871b45e319621d7ce3c19c10e_1787045421754_l_medium.jpg",Day 4 - 1st Test - 18 Aug 2026 [Hindi] - India Tour of Sri Lanka 2026
+#EXTINF:-1 tvg-id="event-0.02313966190540684" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://img.media.jio.com/tvpimages/2/73/355e6f0ed1d85a0ba49b36a60d5b18be_1787045421837_l_medium.jpg",Day 4 - 1st Test - 18 Aug 2026 [Telugu] - India Tour of Sri Lanka 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1808/HIN/master.m3u8?hdnea=exp=1787095086~acl=/*~id=19767165056191684788957526058382~hmac=20f15ff38b793c7aade7f048172f47215b41c233e5e20cd0a7f8cd93eba0bb94
-
-#EXTINF:-1 tvg-id="event-0.04933133889086627" group-title="LIVE SPORTS | STREAMX" group-logo="https://i.postimg.cc/3xnDC1d6/live-sports.png" tvg-logo="https://img.media.jio.com/tvpimages/37/60/7dd327ddf57e5e8684ad6e1d849c2220_1787045421721_l_medium.jpg",Day 4 - 1st Test - 18 Aug 2026 [Tamil] - India Tour of Sri Lanka 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1808/TAM/master.m3u8?hdnea=exp=1787095086~acl=/*~id=19767165056191684788957526058382~hmac=20f15ff38b793c7aade7f048172f47215b41c233e5e20cd0a7f8cd93eba0bb94
+https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1808/TEL/master.m3u8?hdnea=exp=1787099967~acl=/*~id=62093774085826178665473545950273~hmac=f8e608d2a887b6202ec7637c9c826e76b47eea5ece4b393e95c7974a48b4676a
 
 #EXTINF:-1 tvg-id="SONY SAB HD.in" group-title="Sony Liv | STREAMX" group-logo="https://i.postimg.cc/WztjDJSc/Sony-Liv-(1).jpg" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",Sony SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
